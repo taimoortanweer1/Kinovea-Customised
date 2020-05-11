@@ -51,8 +51,9 @@ namespace Kinovea.Root
             get { return screenManager; }
         }
         #endregion
-        
+
         #region Members
+        private FormReminder formReminder;
         private KinoveaMainWindow mainWindow;
         private FileBrowserKernel fileBrowser;
         private UpdaterKernel updater;
@@ -160,9 +161,10 @@ namespace Kinovea.Root
 
             log.Debug("Calling Application.Run() to boot up the UI.");
             Application.Run(mainWindow);
+            
         }
         #endregion
-        
+
         #region IKernel Implementation
         public void BuildSubTree()
         {   
@@ -172,6 +174,8 @@ namespace Kinovea.Root
             updater = new UpdaterKernel();
             screenManager = new ScreenManagerKernel();
             log.DebugFormat("Modules tree built in {0} ms.", stopwatch.ElapsedMilliseconds);
+          
+
         }
         public void ExtendMenu(ToolStrip menu)
         {
@@ -204,6 +208,7 @@ namespace Kinovea.Root
 
             mainWindow.PlugUI(fileBrowser.UI, screenManager.UI);
             mainWindow.SupervisorControl.buttonCloseExplo.BringToFront();
+            
         }
         public void RefreshUICulture()
         {

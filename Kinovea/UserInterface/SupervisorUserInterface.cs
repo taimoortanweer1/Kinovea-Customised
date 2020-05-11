@@ -64,6 +64,7 @@ namespace Kinovea.Root
                 ExpandExplorer(true);
 
             initialized = true;
+         
         }
         #endregion
 
@@ -82,6 +83,7 @@ namespace Kinovea.Root
             fileExplorer.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right | AnchorStyles.Bottom;
 
             ResumeLayout();
+            
         }
 
         #region Event Handlers

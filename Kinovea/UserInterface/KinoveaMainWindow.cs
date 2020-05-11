@@ -69,17 +69,16 @@ namespace Kinovea.Root
 
             IntroAboutForm introForm = new IntroAboutForm();
             introForm.ShowDialog();
+            
 
             FormSplashScreen splashForm = new FormSplashScreen();
 
             splashForm.Show();
-
             splashForm.Update();
 
             System.Threading.Thread.Sleep(3000);
             splashForm.Hide();
-
-
+            splashForm.Dispose();
 
 
         }
@@ -124,6 +123,7 @@ namespace Kinovea.Root
         public void PlugUI(UserControl fileExplorer, UserControl screenManager)
         {
             supervisorView.PlugUI(fileExplorer, screenManager);
+          
         }
 
         #region Event Handlers
@@ -132,5 +132,11 @@ namespace Kinovea.Root
             e.Cancel = rootKernel.CloseSubModules();
         }
         #endregion
+
+        private void KinoveaMainWindow_Load(object sender, EventArgs e)
+        {
+            FormReminder reminderForm = new FormReminder();
+            reminderForm.ShowDialog();
+        }
     }
 }

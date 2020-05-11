@@ -69,6 +69,7 @@ namespace Kinovea.Root
             this.Name = "KinoveaMainWindow";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.UserInterface_FormClosing);
+            this.Load += new System.EventHandler(this.KinoveaMainWindow_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

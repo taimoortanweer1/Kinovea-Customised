@@ -98,6 +98,7 @@
             this.Controls.Add(this.btnAbout);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "IntroAboutForm";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Important Notice - Clean Hands";
             this.ResumeLayout(false);
             this.PerformLayout();

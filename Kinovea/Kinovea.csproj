@@ -232,6 +232,12 @@
     <Compile Include="UserInterface\FormPreferences2.Designer.cs">
       <DependentUpon>FormPreferences2.cs</DependentUpon>
     </Compile>
+    <Compile Include="UserInterface\FormReminder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserInterface\FormReminder.Designer.cs">
+      <DependentUpon>FormReminder.cs</DependentUpon>
+    </Compile>
     <Compile Include="UserInterface\IntroAboutForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -348,6 +354,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="UserInterface\FormPreferences2.resx">
       <DependentUpon>FormPreferences2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserInterface\FormReminder.resx">
+      <DependentUpon>FormReminder.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="UserInterface\IntroAboutForm.resx">
       <DependentUpon>IntroAboutForm.cs</DependentUpon>
