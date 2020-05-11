@@ -43,7 +43,7 @@
             this.btnAbout.Name = "btnAbout";
             this.btnAbout.Size = new System.Drawing.Size(235, 32);
             this.btnAbout.TabIndex = 0;
-            this.btnAbout.Text = "About the Clean Hands Program";
+            this.btnAbout.Text = "About the Clean Hands™ Program";
             this.btnAbout.UseVisualStyleBackColor = true;
             this.btnAbout.Click += new System.EventHandler(this.btnAbout_Click);
             // 
@@ -72,7 +72,7 @@
             this.btnInstructions.Name = "btnInstructions";
             this.btnInstructions.Size = new System.Drawing.Size(235, 32);
             this.btnInstructions.TabIndex = 3;
-            this.btnInstructions.Text = "Clean Hands Operations Instructions";
+            this.btnInstructions.Text = "Clean Hands™ Operations Instructions";
             this.btnInstructions.UseVisualStyleBackColor = true;
             // 
             // btnAgreement
@@ -96,6 +96,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.richTextBox1);
             this.Controls.Add(this.btnAbout);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "IntroAboutForm";
             this.Text = "Important Notice - Clean Hands";
             this.ResumeLayout(false);

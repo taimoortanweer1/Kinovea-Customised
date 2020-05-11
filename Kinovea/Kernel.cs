@@ -91,8 +91,10 @@ namespace Kinovea.Root
         private ToolStripMenuItem mnuApplicationFolder = new ToolStripMenuItem();
         private ToolStripMenuItem mnuWebsite = new ToolStripMenuItem();
         private ToolStripMenuItem mnuAbout = new ToolStripMenuItem();
+        private ToolStripMenuItem mnuAboutCM = new ToolStripMenuItem();
+        private ToolStripMenuItem mnuHelpCM = new ToolStripMenuItem();
         #endregion
-        
+
         private ToolStripButton toolOpenFile = new ToolStripButton();
         private ToolStripStatusLabel statusLabel = new ToolStripStatusLabel();
 
@@ -351,13 +353,31 @@ namespace Kinovea.Root
             mnuAbout.Image = Properties.Resources.information;
             mnuAbout.Click += new EventHandler(mnuAbout_OnClick);
 
-            mnuHelp.DropDownItems.AddRange(new ToolStripItem[] { 
-                mnuHelpContents, 
+            mnuAboutCM.Image = Properties.Resources.information;
+            mnuAboutCM.Click += (s, e) =>
+            {
+                FormAboutCH formAbout = new FormAboutCH();
+                formAbout.ShowDialog();
+            };
+
+            mnuHelpCM.Image = Properties.Resources.book_open;
+            mnuHelpCM.Click += (s, e) =>
+            {
+                FormHelpCM formHelp = new FormHelpCM();
+                formHelp.ShowDialog();
+            };
+
+            mnuHelp.DropDownItems.AddRange(new ToolStripItem[] {
+                mnuHelpCM,
+                mnuHelpContents,                 
                 new ToolStripSeparator(), 
                 mnuApplicationFolder, 
                 new ToolStripSeparator(),
                 mnuWebsite,
-                mnuAbout });
+                new ToolStripSeparator(),
+                mnuAboutCM,
+                mnuAbout,
+                });
             #endregion
 
             // Top level merge.
@@ -434,6 +454,11 @@ namespace Kinovea.Root
             mnuWebsite.Text = "www.kinovea.org";
             mnuAbout.Text = RootLang.mnuAbout;
             mnuHelp.Text = RootLang.mnuHelp;
+            mnuAboutCM.Text = "About Clean Hands™ ...";
+            mnuHelpCM.Text = "Help Clean Hands™ ...";
+
+
+
         }
         #endregion
 
