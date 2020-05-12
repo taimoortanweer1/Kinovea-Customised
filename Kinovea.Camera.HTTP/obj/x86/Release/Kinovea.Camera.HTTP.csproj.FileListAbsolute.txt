@@ -1,0 +1,4 @@
+D:\Work\FreelancerProjects\Fiverr\Kinovea\Kinovea.Camera.HTTP\obj\x86\Release\Kinovea.Camera.HTTP.ConnectionWizard.resources
+D:\Work\FreelancerProjects\Fiverr\Kinovea\Kinovea.Camera.HTTP\obj\x86\Release\Kinovea.Camera.HTTP.FormConfiguration.resources
+D:\Work\FreelancerProjects\Fiverr\Kinovea\Kinovea.Camera.HTTP\obj\x86\Release\Kinovea.Camera.HTTP.csproj.GenerateResource.cache
+D:\Work\FreelancerProjects\Fiverr\Kinovea\Kinovea.Camera.HTTP\obj\x86\Release\Kinovea.Camera.HTTP.csproj.CoreCompileInputs.cache

@@ -1,0 +1,4 @@
+D:\Work\FreelancerProjects\Fiverr\Kinovea\Kinovea.Services\obj\x86\Release\Kinovea.Services.csprojAssemblyReference.cache
+D:\Work\FreelancerProjects\Fiverr\Kinovea\Kinovea.Services\obj\x86\Release\Kinovea.Services.BenchmarkReport.resources
+D:\Work\FreelancerProjects\Fiverr\Kinovea\Kinovea.Services\obj\x86\Release\Kinovea.Services.csproj.GenerateResource.cache
+D:\Work\FreelancerProjects\Fiverr\Kinovea\Kinovea.Services\obj\x86\Release\Kinovea.Services.csproj.CoreCompileInputs.cache

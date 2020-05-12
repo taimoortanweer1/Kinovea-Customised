@@ -1,0 +1,4 @@
+D:\Work\FreelancerProjects\Fiverr\Kinovea\Kinovea.Camera.Daheng\obj\x86\Release\Kinovea.Camera.Daheng.csprojAssemblyReference.cache
+D:\Work\FreelancerProjects\Fiverr\Kinovea\Kinovea.Camera.Daheng\obj\x86\Release\Kinovea.Camera.Daheng.FormConfiguration.resources
+D:\Work\FreelancerProjects\Fiverr\Kinovea\Kinovea.Camera.Daheng\obj\x86\Release\Kinovea.Camera.Daheng.csproj.GenerateResource.cache
+D:\Work\FreelancerProjects\Fiverr\Kinovea\Kinovea.Camera.Daheng\obj\x86\Release\Kinovea.Camera.Daheng.csproj.CoreCompileInputs.cache

@@ -1,0 +1,7 @@
+D:\Work\FreelancerProjects\Fiverr\Kinovea\Kinovea\bin\x86\Release\Kinovea.Video.Bitmap.dll
+D:\Work\FreelancerProjects\Fiverr\Kinovea\Kinovea\bin\x86\Release\Kinovea.Video.Bitmap.pdb
+D:\Work\FreelancerProjects\Fiverr\Kinovea\Kinovea.Video.Bitmap\obj\x86\Release\Kinovea.Video.Bitmap.csprojAssemblyReference.cache
+D:\Work\FreelancerProjects\Fiverr\Kinovea\Kinovea.Video.Bitmap\obj\x86\Release\Kinovea.Video.Bitmap.csproj.CoreCompileInputs.cache
+D:\Work\FreelancerProjects\Fiverr\Kinovea\Kinovea.Video.Bitmap\obj\x86\Release\Kinovea.Video.Bitmap.csproj.CopyComplete
+D:\Work\FreelancerProjects\Fiverr\Kinovea\Kinovea.Video.Bitmap\obj\x86\Release\Kinovea.Video.Bitmap.dll
+D:\Work\FreelancerProjects\Fiverr\Kinovea\Kinovea.Video.Bitmap\obj\x86\Release\Kinovea.Video.Bitmap.pdb

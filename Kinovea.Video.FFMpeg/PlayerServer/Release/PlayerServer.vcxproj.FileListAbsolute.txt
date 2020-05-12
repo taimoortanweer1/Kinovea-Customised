@@ -1,0 +1,2 @@
+D:\Work\FreelancerProjects\Fiverr\Kinovea\Kinovea.Video.FFMpeg\PlayerServer\Release\PlayerServer.vcxprojAssemblyReference.cache
+D:\Work\FreelancerProjects\Fiverr\Kinovea\Kinovea.Video.FFMpeg\PlayerServer\Release\PlayerServer.vcxproj.CopyComplete

@@ -1,0 +1,4 @@
+D:\Work\FreelancerProjects\Fiverr\Kinovea\Kinovea.Camera.DirectShow\obj\x86\Release\Kinovea.Camera.DirectShow.csprojAssemblyReference.cache
+D:\Work\FreelancerProjects\Fiverr\Kinovea\Kinovea.Camera.DirectShow\obj\x86\Release\Kinovea.Camera.DirectShow.FormConfiguration.resources
+D:\Work\FreelancerProjects\Fiverr\Kinovea\Kinovea.Camera.DirectShow\obj\x86\Release\Kinovea.Camera.DirectShow.csproj.GenerateResource.cache
+D:\Work\FreelancerProjects\Fiverr\Kinovea\Kinovea.Camera.DirectShow\obj\x86\Release\Kinovea.Camera.DirectShow.csproj.CoreCompileInputs.cache

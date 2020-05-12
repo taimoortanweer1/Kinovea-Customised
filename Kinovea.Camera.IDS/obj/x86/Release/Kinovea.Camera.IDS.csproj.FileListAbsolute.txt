@@ -1,0 +1,3 @@
+D:\Work\FreelancerProjects\Fiverr\Kinovea\Kinovea.Camera.IDS\obj\x86\Release\Kinovea.Camera.IDS.FormConfiguration.resources
+D:\Work\FreelancerProjects\Fiverr\Kinovea\Kinovea.Camera.IDS\obj\x86\Release\Kinovea.Camera.IDS.csproj.GenerateResource.cache
+D:\Work\FreelancerProjects\Fiverr\Kinovea\Kinovea.Camera.IDS\obj\x86\Release\Kinovea.Camera.IDS.csproj.CoreCompileInputs.cache

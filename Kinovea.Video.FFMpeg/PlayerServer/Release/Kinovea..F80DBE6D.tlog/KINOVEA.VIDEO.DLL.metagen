@@ -1,0 +1,532 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly Kinovea.Video, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly log4net, Version=2.0.8.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly TurboJpegNet, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class Kinovea.Video.BitmapHelper: AutoLayout, AnsiClass, Class, Public, Abstract, Sealed, BeforeFieldInit
+  Methods:
+    Copy(Bitmap): PrivateScope, Public, Static, HideBySig
+    Copy(Bitmap, Bitmap, Rectangle): PrivateScope, Public, Static, HideBySig
+    FillFromRGB24(Bitmap, Rectangle, Boolean, Byte[]): PrivateScope, Public, Static, HideBySig
+    FillFromRGB32(Bitmap, Rectangle, Boolean, Byte[]): PrivateScope, Public, Static, HideBySig
+    FillFromY800(Bitmap, Rectangle, Boolean, Byte[]): PrivateScope, Public, Static, HideBySig
+    FillFromJPEG(Bitmap, Rectangle, Byte[], Byte[], Int32, Int32): PrivateScope, Public, Static, HideBySig
+    CopyBitmapRectangle(Bitmap, Point, Byte[], Int32): PrivateScope, Public, Static, HideBySig
+    CopyBitmapToBuffer(Bitmap, Byte[]): PrivateScope, Public, Static, HideBySig
+Class Kinovea.Video.VideoLoadAskedEventArgs: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.EventArgs
+    Void .ctor(System.String, Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String Path : Public, InitOnly
+    Int32 Target : Public, InitOnly
+Class Kinovea.Video.Extensions: AutoLayout, AnsiClass, Class, Public, Abstract, Sealed, BeforeFieldInit
+  Methods:
+    CloneDeep(Bitmap): PrivateScope, Public, Static, HideBySig
+    ExtractTemplate(Bitmap, Rectangle): PrivateScope, Public, Static, HideBySig
+    Invert(Color): PrivateScope, Public, Static, HideBySig
+Class Kinovea.Video.Cache: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(Kinovea.Video.VideoFrameDisposer): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    Kinovea.Video.IVideoFramesContainer
+    Kinovea.Video.IWorkingZoneFramesContainer
+  Properties:
+    Kinovea.Video.VideoFrame CurrentFrame 'get ' : 
+    Kinovea.Video.VideoSection WorkingZone 'get ' : 
+    System.Collections.ObjectModel.ReadOnlyCollection`1[Kinovea.Video.VideoFrame] Frames 'get ' : 
+    System.Drawing.Bitmap Representative 'get ' : 
+  Methods:
+    get_CurrentFrame(): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    get_WorkingZone(): PrivateScope, Public, HideBySig, SpecialName
+    Dispose(): PrivateScope, Public, HideBySig
+    MoveBy(Int32): PrivateScope, Public, HideBySig
+    MoveTo(Int64): PrivateScope, Public, HideBySig
+    Add(VideoFrame): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+    Clear(): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+    ReduceWorkingZone(VideoSection): PrivateScope, Public, HideBySig
+    SetPrependBlock(Boolean): PrivateScope, Public, HideBySig
+    get_Frames(): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    get_Representative(): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    Revert(): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+Interface Kinovea.Video.IVideoFramesContainer: AutoLayout, AnsiClass, Class, Public, ClassSemanticsMask, Abstract
+  Properties:
+    Kinovea.Video.VideoFrame CurrentFrame 'get ' : 
+  Methods:
+    get_CurrentFrame(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+    Add(VideoFrame): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    Clear(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+Interface Kinovea.Video.IWorkingZoneFramesContainer: AutoLayout, AnsiClass, Class, Public, ClassSemanticsMask, Abstract
+  Properties:
+    System.Collections.ObjectModel.ReadOnlyCollection`1[Kinovea.Video.VideoFrame] Frames 'get ' : 
+    System.Drawing.Bitmap Representative 'get ' : 
+  Methods:
+    get_Frames(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+    get_Representative(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+    Revert(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+Class Kinovea.Video.SingleFrame: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(Kinovea.Video.VideoFrameDisposer): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    Kinovea.Video.IVideoFramesContainer
+  Properties:
+    Kinovea.Video.VideoFrame CurrentFrame 'get ' : 
+  Methods:
+    get_CurrentFrame(): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    Dispose(): PrivateScope, Public, HideBySig
+    Add(VideoFrame): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+    Clear(): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+Class Kinovea.Video.PreBuffer: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(Kinovea.Video.VideoFrameDisposer): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.IDisposable
+    Kinovea.Video.IVideoFramesContainer
+  Properties:
+    Kinovea.Video.VideoFrame CurrentFrame 'get ' : 
+    Kinovea.Video.VideoSection Segment 'get ' : 
+    Int32 Drops 'get ' : 
+  Methods:
+    get_CurrentFrame(): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    get_Segment(): PrivateScope, Public, HideBySig, SpecialName
+    get_Drops(): PrivateScope, Public, HideBySig, SpecialName
+    Dispose(): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+    MoveBy(Int32): PrivateScope, Public, HideBySig
+    MoveTo(Int64): PrivateScope, Public, HideBySig
+    ResetDrops(): PrivateScope, Public, HideBySig
+    HasNext(Int32): PrivateScope, Public, HideBySig
+    Add(VideoFrame): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+    Contains(Int64): PrivateScope, Public, HideBySig
+    Clear(): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+    UnblockAndMakeRoom(): PrivateScope, Public, HideBySig
+    UpdateWorkingZone(VideoSection): PrivateScope, Public, HideBySig
+    PurgeOutsiders(): PrivateScope, Public, HideBySig
+    IsRolloverJump(Int64): PrivateScope, Public, HideBySig
+    DumpToDisk(): PrivateScope, Public, HideBySig
+Class Kinovea.Video.CapabilityNotSupportedException: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Exception
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Interface Kinovea.Video.IFrameGenerator: AutoLayout, AnsiClass, Class, Public, ClassSemanticsMask, Abstract
+  Properties:
+    System.Drawing.Size Size 'get ' : 
+  Methods:
+    get_Size(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+    Initialize(String): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    Generate(Int64): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    Generate(Int64, Size): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    DisposePrevious(Bitmap): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    Close(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+Struct Kinovea.Video.ImageFormat: AutoLayout, AnsiClass, Class, Public, Sealed
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    Kinovea.Video.ImageFormat None = 0 : Public, Static, Literal, HasDefault
+    Kinovea.Video.ImageFormat RGB24 = 1 : Public, Static, Literal, HasDefault
+    Kinovea.Video.ImageFormat RGB32 = 2 : Public, Static, Literal, HasDefault
+    Kinovea.Video.ImageFormat Y800 = 3 : Public, Static, Literal, HasDefault
+    Kinovea.Video.ImageFormat JPEG = 4 : Public, Static, Literal, HasDefault
+Class Kinovea.Video.ImageFormatHelper: AutoLayout, AnsiClass, Class, Public, Abstract, Sealed, BeforeFieldInit
+  Methods:
+    ComputeBufferSize(Int32, Int32, ImageFormat): PrivateScope, Public, Static, HideBySig
+    BytesPerPixel(ImageFormat): PrivateScope, Public, Static, HideBySig
+Class Kinovea.Video.NativeMethods: AutoLayout, AnsiClass, Class, Public, Abstract, Sealed, BeforeFieldInit
+  Methods:
+    memcpy(Void*, Void*, Int32): PrivateScope, Public, Static, HideBySig, PinvokeImpl
+Class Kinovea.Video.VideoReaderAlwaysCaching: AutoLayout, AnsiClass, Class, Public, Abstract, BeforeFieldInit
+  :Kinovea.Video.VideoReader
+  Properties:
+    Kinovea.Video.VideoFrame Current 'get ' : 
+    Kinovea.Video.VideoSection WorkingZone 'get ' : 
+    Kinovea.Video.IWorkingZoneFramesContainer WorkingZoneFrames 'get ' : 
+  Methods:
+    get_Current(): PrivateScope, Public, Virtual, HideBySig, SpecialName
+    get_WorkingZone(): PrivateScope, Public, Virtual, HideBySig, SpecialName
+    get_WorkingZoneFrames(): PrivateScope, Public, Virtual, HideBySig, SpecialName
+    MoveNext(Int32, Boolean): PrivateScope, Public, Virtual, HideBySig
+    MoveTo(Int64): PrivateScope, Public, Virtual, HideBySig
+    Close(): PrivateScope, Public, Virtual, HideBySig
+    PostLoad(): PrivateScope, Public, Virtual, HideBySig
+    UpdateWorkingZone(VideoSection, Boolean, Int32, Int32, Action`1): PrivateScope, Public, Virtual, HideBySig
+    BeforeFrameEnumeration(): PrivateScope, Public, Virtual, HideBySig
+    AfterFrameEnumeration(): PrivateScope, Public, Virtual, HideBySig
+Class Kinovea.Video.VideoReader: AutoLayout, AnsiClass, Class, Public, Abstract, BeforeFieldInit
+  Fields:
+    System.Drawing.Imaging.PixelFormat DecodingPixelFormat = 925707 : Public, Static, Literal, HasDefault
+  Properties:
+    Kinovea.Video.VideoFrame Current 'get ' : 
+    Kinovea.Video.VideoCapabilities Flags 'get ' : 
+    Kinovea.Video.VideoInfo Info 'get ' : 
+    Boolean Loaded 'get ' : 
+    Kinovea.Video.VideoSection WorkingZone 'get ' : 
+    Kinovea.Video.VideoDecodingMode DecodingMode 'get ' : 
+    Kinovea.Video.IWorkingZoneFramesContainer WorkingZoneFrames 'get ' : 
+    Kinovea.Video.VideoSection PreBufferingSegment 'get ' : 
+    Int32 Drops 'get ' : 
+    Kinovea.Video.VideoOptions Options 'get set' : 
+    System.String FilePath 'get ' : 
+    Boolean IsSingleFrame 'get ' : 
+    Int64 EstimatedFrames 'get ' : 
+    Boolean CanDrawUnscaled 'get ' : 
+    Boolean CanDecodeOnDemand 'get ' : 
+    Boolean CanPreBuffer 'get ' : 
+    Boolean CanCache 'get ' : 
+    Boolean CanChangeAspectRatio 'get ' : 
+    Boolean CanChangeImageRotation 'get ' : 
+    Boolean CanChangeDemosaicing 'get ' : 
+    Boolean CanChangeDeinterlacing 'get ' : 
+    Boolean CanChangeWorkingZone 'get ' : 
+    Boolean CanChangeDecodingSize 'get ' : 
+    Boolean CanScaleIndefinitely 'get ' : 
+  Methods:
+    get_Current(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+    get_Flags(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+    get_Info(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+    get_Loaded(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+    get_WorkingZone(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+    get_DecodingMode(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+    get_WorkingZoneFrames(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    get_PreBufferingSegment(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    get_Drops(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    get_Options(): PrivateScope, Public, HideBySig, SpecialName
+    set_Options(VideoOptions): PrivateScope, Public, HideBySig, SpecialName
+    get_FilePath(): PrivateScope, Public, HideBySig, SpecialName
+    get_IsSingleFrame(): PrivateScope, Public, HideBySig, SpecialName
+    get_EstimatedFrames(): PrivateScope, Public, HideBySig, SpecialName
+    get_CanDrawUnscaled(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    get_CanDecodeOnDemand(): PrivateScope, Public, HideBySig, SpecialName
+    get_CanPreBuffer(): PrivateScope, Public, HideBySig, SpecialName
+    get_CanCache(): PrivateScope, Public, HideBySig, SpecialName
+    get_CanChangeAspectRatio(): PrivateScope, Public, HideBySig, SpecialName
+    get_CanChangeImageRotation(): PrivateScope, Public, HideBySig, SpecialName
+    get_CanChangeDemosaicing(): PrivateScope, Public, HideBySig, SpecialName
+    get_CanChangeDeinterlacing(): PrivateScope, Public, HideBySig, SpecialName
+    get_CanChangeWorkingZone(): PrivateScope, Public, HideBySig, SpecialName
+    get_CanChangeDecodingSize(): PrivateScope, Public, HideBySig, SpecialName
+    get_CanScaleIndefinitely(): PrivateScope, Public, HideBySig, SpecialName
+    Open(String): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    Close(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    ExtractSummary(String, Int32, Size): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    MoveNext(Int32, Boolean): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    MoveTo(Int64): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    BeforeFrameEnumeration(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    AfterFrameEnumeration(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    PostLoad(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    UpdateWorkingZone(VideoSection, Boolean, Int32, Int32, Action`1): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    MovePrev(): PrivateScope, Public, HideBySig
+    MoveFirst(): PrivateScope, Public, HideBySig
+    MoveLast(): PrivateScope, Public, HideBySig
+    MoveBy(Int32, Boolean): PrivateScope, Public, HideBySig
+    CanSwitchDecodingMode(VideoDecodingMode): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    HasMoreFrames(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    BeforePlayloop(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    ChangeAspectRatio(ImageAspectRatio): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    ChangeImageRotation(ImageRotation): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    ChangeDemosaicing(Demosaicing): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    ChangeDeinterlace(Boolean): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    ChangeDecodingSize(Size): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    DisableCustomDecodingSize(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    FrameEnumerator(Int64): PrivateScope, Public, HideBySig
+    FrameEnumerator(): PrivateScope, Public, HideBySig
+    ReadMetadata(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    ResetDrops(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+Class Kinovea.Video.ThreadCanceler: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Boolean CancellationPending 'get ' : 
+  Methods:
+    get_CancellationPending(): PrivateScope, Public, HideBySig, SpecialName
+    Cancel(): PrivateScope, Public, HideBySig
+    Reset(): PrivateScope, Public, HideBySig
+Class Kinovea.Video.VideoFrameDisposer: AutoLayout, AnsiClass, Class, Public, Sealed
+  :System.MulticastDelegate
+    Void .ctor(System.Object, IntPtr): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Invoke(VideoFrame): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    BeginInvoke(VideoFrame, AsyncCallback, Object): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    EndInvoke(IAsyncResult): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+Class Kinovea.Video.ImageRetriever: AutoLayout, AnsiClass, Class, Public, Sealed
+  :System.MulticastDelegate
+    Void .ctor(System.Object, IntPtr): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Invoke(VideoFrame, Bitmap): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    BeginInvoke(VideoFrame, Bitmap, AsyncCallback, Object): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    EndInvoke(IAsyncResult): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+Struct Kinovea.Video.VideoCapabilities: AutoLayout, AnsiClass, Class, Public, Sealed
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    Kinovea.Video.VideoCapabilities None = 0 : Public, Static, Literal, HasDefault
+    Kinovea.Video.VideoCapabilities CanDecodeOnDemand = 1 : Public, Static, Literal, HasDefault
+    Kinovea.Video.VideoCapabilities CanPreBuffer = 2 : Public, Static, Literal, HasDefault
+    Kinovea.Video.VideoCapabilities CanCache = 4 : Public, Static, Literal, HasDefault
+    Kinovea.Video.VideoCapabilities CanChangeWorkingZone = 8 : Public, Static, Literal, HasDefault
+    Kinovea.Video.VideoCapabilities CanChangeAspectRatio = 16 : Public, Static, Literal, HasDefault
+    Kinovea.Video.VideoCapabilities CanChangeDeinterlacing = 32 : Public, Static, Literal, HasDefault
+    Kinovea.Video.VideoCapabilities CanChangeVideoDuration = 64 : Public, Static, Literal, HasDefault
+    Kinovea.Video.VideoCapabilities CanChangeFrameRate = 128 : Public, Static, Literal, HasDefault
+    Kinovea.Video.VideoCapabilities CanChangeDecodingSize = 256 : Public, Static, Literal, HasDefault
+    Kinovea.Video.VideoCapabilities CanScaleIndefinitely = 512 : Public, Static, Literal, HasDefault
+    Kinovea.Video.VideoCapabilities CanChangeImageRotation = 1024 : Public, Static, Literal, HasDefault
+    Kinovea.Video.VideoCapabilities CanChangeDemosaicing = 2048 : Public, Static, Literal, HasDefault
+Struct Kinovea.Video.VideoDecodingMode: AutoLayout, AnsiClass, Class, Public, Sealed
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    Kinovea.Video.VideoDecodingMode NotInitialized = 0 : Public, Static, Literal, HasDefault
+    Kinovea.Video.VideoDecodingMode OnDemand = 1 : Public, Static, Literal, HasDefault
+    Kinovea.Video.VideoDecodingMode PreBuffering = 2 : Public, Static, Literal, HasDefault
+    Kinovea.Video.VideoDecodingMode Caching = 3 : Public, Static, Literal, HasDefault
+Struct Kinovea.Video.ImageAspectRatio: AutoLayout, AnsiClass, Class, Public, Sealed
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    Kinovea.Video.ImageAspectRatio Auto = 0 : Public, Static, Literal, HasDefault
+    Kinovea.Video.ImageAspectRatio Force43 = 1 : Public, Static, Literal, HasDefault
+    Kinovea.Video.ImageAspectRatio Force169 = 2 : Public, Static, Literal, HasDefault
+    Kinovea.Video.ImageAspectRatio ForcedSquarePixels = 3 : Public, Static, Literal, HasDefault
+Struct Kinovea.Video.ImageRotation: AutoLayout, AnsiClass, Class, Public, Sealed
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    Kinovea.Video.ImageRotation Rotate0 = 0 : Public, Static, Literal, HasDefault
+    Kinovea.Video.ImageRotation Rotate90 = 1 : Public, Static, Literal, HasDefault
+    Kinovea.Video.ImageRotation Rotate180 = 2 : Public, Static, Literal, HasDefault
+    Kinovea.Video.ImageRotation Rotate270 = 3 : Public, Static, Literal, HasDefault
+Struct Kinovea.Video.Demosaicing: AutoLayout, AnsiClass, Class, Public, Sealed
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    Kinovea.Video.Demosaicing None = 0 : Public, Static, Literal, HasDefault
+    Kinovea.Video.Demosaicing RGGB = 1 : Public, Static, Literal, HasDefault
+    Kinovea.Video.Demosaicing BGGR = 2 : Public, Static, Literal, HasDefault
+    Kinovea.Video.Demosaicing GRBG = 3 : Public, Static, Literal, HasDefault
+    Kinovea.Video.Demosaicing GBRG = 4 : Public, Static, Literal, HasDefault
+Struct Kinovea.Video.OpenVideoResult: AutoLayout, AnsiClass, Class, Public, Sealed
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    Kinovea.Video.OpenVideoResult Success = 0 : Public, Static, Literal, HasDefault
+    Kinovea.Video.OpenVideoResult UnknownError = 1 : Public, Static, Literal, HasDefault
+    Kinovea.Video.OpenVideoResult NotSupported = 2 : Public, Static, Literal, HasDefault
+    Kinovea.Video.OpenVideoResult FileNotOpenned = 3 : Public, Static, Literal, HasDefault
+    Kinovea.Video.OpenVideoResult StreamInfoNotFound = 4 : Public, Static, Literal, HasDefault
+    Kinovea.Video.OpenVideoResult VideoStreamNotFound = 5 : Public, Static, Literal, HasDefault
+    Kinovea.Video.OpenVideoResult CodecNotFound = 6 : Public, Static, Literal, HasDefault
+    Kinovea.Video.OpenVideoResult CodecNotOpened = 7 : Public, Static, Literal, HasDefault
+    Kinovea.Video.OpenVideoResult CodecNotSupported = 8 : Public, Static, Literal, HasDefault
+    Kinovea.Video.OpenVideoResult Cancelled = 9 : Public, Static, Literal, HasDefault
+    Kinovea.Video.OpenVideoResult EmptyWatcher = 10 : Public, Static, Literal, HasDefault
+Struct Kinovea.Video.SaveResult: AutoLayout, AnsiClass, Class, Public, Sealed
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    Kinovea.Video.SaveResult Success = 0 : Public, Static, Literal, HasDefault
+    Kinovea.Video.SaveResult MuxerNotFound = 1 : Public, Static, Literal, HasDefault
+    Kinovea.Video.SaveResult MuxerParametersNotAllocated = 2 : Public, Static, Literal, HasDefault
+    Kinovea.Video.SaveResult MuxerParametersNotSet = 3 : Public, Static, Literal, HasDefault
+    Kinovea.Video.SaveResult VideoStreamNotCreated = 4 : Public, Static, Literal, HasDefault
+    Kinovea.Video.SaveResult EncoderNotFound = 5 : Public, Static, Literal, HasDefault
+    Kinovea.Video.SaveResult EncoderParametersNotAllocated = 6 : Public, Static, Literal, HasDefault
+    Kinovea.Video.SaveResult EncoderParametersNotSet = 7 : Public, Static, Literal, HasDefault
+    Kinovea.Video.SaveResult EncoderNotOpened = 8 : Public, Static, Literal, HasDefault
+    Kinovea.Video.SaveResult FileNotOpened = 9 : Public, Static, Literal, HasDefault
+    Kinovea.Video.SaveResult FileHeaderNotWritten = 10 : Public, Static, Literal, HasDefault
+    Kinovea.Video.SaveResult InputFrameNotAllocated = 11 : Public, Static, Literal, HasDefault
+    Kinovea.Video.SaveResult MetadataStreamNotCreated = 12 : Public, Static, Literal, HasDefault
+    Kinovea.Video.SaveResult MetadataNotWritten = 13 : Public, Static, Literal, HasDefault
+    Kinovea.Video.SaveResult ReadingError = 14 : Public, Static, Literal, HasDefault
+    Kinovea.Video.SaveResult UnknownError = 15 : Public, Static, Literal, HasDefault
+    Kinovea.Video.SaveResult MovieNotLoaded = 16 : Public, Static, Literal, HasDefault
+    Kinovea.Video.SaveResult TranscodeNotFinished = 17 : Public, Static, Literal, HasDefault
+    Kinovea.Video.SaveResult Cancelled = 18 : Public, Static, Literal, HasDefault
+Struct Kinovea.Video.Fraction: AutoLayout, AnsiClass, Class, Public, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+    Void .ctor(Int64, Int64): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int64 Numerator : Public, InitOnly
+    Int64 Denominator : Public, InitOnly
+  Properties:
+    Boolean IsEmpty 'get ' : 
+  Methods:
+    get_IsEmpty(): PrivateScope, Public, HideBySig, SpecialName
+Struct Kinovea.Video.SavingSettings: AutoLayout, AnsiClass, Class, Public, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+  Fields:
+    Kinovea.Video.VideoSection Section : Public
+    System.String Metadata : Public
+    System.String File : Public
+    Double InputFrameInterval : Public
+    Double OutputFrameInterval : Public
+    Int32 Duplication : Public
+    Int32 KeyframeDuplication : Public
+    Boolean FlushDrawings : Public
+    Boolean KeyframesOnly : Public
+    Boolean PausedVideo : Public
+    Kinovea.Video.ImageRetriever ImageRetriever : Public
+    Int64 EstimatedTotal : Public
+Class Kinovea.Video.SupportedExtensionsAttribute: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit
+  :System.Attribute
+    Void .ctor(System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String[] Extensions : Public
+Class Kinovea.Video.VideoFrame: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(Int64, System.Drawing.Bitmap): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int64 Timestamp : Public
+    System.Drawing.Bitmap Image : Public
+Struct Kinovea.Video.VideoInfo: AutoLayout, AnsiClass, Class, Public, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+  Fields:
+    System.String FilePath : Public
+    Boolean HasKva : Public
+    System.Drawing.Size OriginalSize : Public
+    System.Drawing.Size AspectRatioSize : Public
+    System.Drawing.Size ReferenceSize : Public
+    Double PixelAspectRatio : Public
+    Kinovea.Video.Fraction SampleAspectRatio : Public
+    Boolean IsCodecMpeg2 : Public
+    Kinovea.Video.ImageRotation ImageRotation : Public
+    Int64 AverageTimeStampsPerFrame : Public
+    Double AverageTimeStampsPerSeconds : Public
+    Double FramesPerSeconds : Public
+    Double FrameIntervalMilliseconds : Public
+    Int64 FirstTimeStamp : Public
+    Int64 LastTimeStamp : Public
+    Int64 DurationTimeStamps : Public
+  Properties:
+    Kinovea.Video.VideoInfo Empty 'get ' : 
+  Methods:
+    get_Empty(): PrivateScope, Public, Static, HideBySig, SpecialName
+Class Kinovea.Video.VideoOptions: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(Kinovea.Video.ImageAspectRatio, Kinovea.Video.ImageRotation, Kinovea.Video.Demosaicing, Boolean): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Kinovea.Video.ImageAspectRatio ImageAspectRatio 'get set' : 
+    Kinovea.Video.ImageRotation ImageRotation 'get set' : 
+    Kinovea.Video.Demosaicing Demosaicing 'get set' : 
+    Boolean Deinterlace 'get set' : 
+    Kinovea.Video.VideoOptions Default 'get ' : 
+  Methods:
+    get_ImageAspectRatio(): PrivateScope, Public, HideBySig, SpecialName
+    set_ImageAspectRatio(ImageAspectRatio): PrivateScope, Public, HideBySig, SpecialName
+    get_ImageRotation(): PrivateScope, Public, HideBySig, SpecialName
+    set_ImageRotation(ImageRotation): PrivateScope, Public, HideBySig, SpecialName
+    get_Demosaicing(): PrivateScope, Public, HideBySig, SpecialName
+    set_Demosaicing(Demosaicing): PrivateScope, Public, HideBySig, SpecialName
+    get_Deinterlace(): PrivateScope, Public, HideBySig, SpecialName
+    set_Deinterlace(Boolean): PrivateScope, Public, HideBySig, SpecialName
+    get_Default(): PrivateScope, Public, Static, HideBySig, SpecialName
+Struct Kinovea.Video.VideoSection: AutoLayout, AnsiClass, Class, Public, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+    Void .ctor(Int64, Int64): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.IComparable
+    System.IEquatable`1[Kinovea.Video.VideoSection]
+  Fields:
+    Int64 Start : Public, InitOnly
+    Int64 End : Public, InitOnly
+  Properties:
+    Kinovea.Video.VideoSection Empty 'get ' : 
+    Boolean IsEmpty 'get ' : 
+    Boolean Wrapped 'get ' : 
+  Methods:
+    get_Empty(): PrivateScope, Public, Static, HideBySig, SpecialName
+    get_IsEmpty(): PrivateScope, Public, HideBySig, SpecialName
+    get_Wrapped(): PrivateScope, Public, HideBySig, SpecialName
+    Contains(Int64): PrivateScope, Public, HideBySig
+    Contains(VideoSection): PrivateScope, Public, HideBySig
+    ToString(): PrivateScope, Public, Virtual, HideBySig
+    CompareTo(Object): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+    op_LessThan(VideoSection, VideoSection): PrivateScope, Public, Static, HideBySig, SpecialName
+    op_GreaterThan(VideoSection, VideoSection): PrivateScope, Public, Static, HideBySig, SpecialName
+    Equals(Object): PrivateScope, Public, Virtual, HideBySig
+    Equals(VideoSection): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+    op_Equality(VideoSection, VideoSection): PrivateScope, Public, Static, HideBySig, SpecialName
+    op_Inequality(VideoSection, VideoSection): PrivateScope, Public, Static, HideBySig, SpecialName
+    GetHashCode(): PrivateScope, Public, Virtual, HideBySig
+Class Kinovea.Video.VideoSummary: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Kinovea.Video.VideoSummary Invalid 'get ' : 
+    System.String Filename 'get set' : 
+    Boolean IsImage 'get set' : 
+    Boolean HasKva 'get set' : 
+    System.Drawing.Size ImageSize 'get set' : 
+    Int64 DurationMilliseconds 'get set' : 
+    System.DateTime Creation 'get set' : 
+    Double Framerate 'get set' : 
+    System.Collections.Generic.List`1[System.Drawing.Bitmap] Thumbs 'get set' : 
+  Methods:
+    get_Invalid(): PrivateScope, Public, Static, HideBySig, SpecialName
+    get_Filename(): PrivateScope, Public, HideBySig, SpecialName
+    get_IsImage(): PrivateScope, Public, HideBySig, SpecialName
+    set_IsImage(Boolean): PrivateScope, Public, HideBySig, SpecialName
+    get_HasKva(): PrivateScope, Public, HideBySig, SpecialName
+    set_HasKva(Boolean): PrivateScope, Public, HideBySig, SpecialName
+    get_ImageSize(): PrivateScope, Public, HideBySig, SpecialName
+    set_ImageSize(Size): PrivateScope, Public, HideBySig, SpecialName
+    get_DurationMilliseconds(): PrivateScope, Public, HideBySig, SpecialName
+    set_DurationMilliseconds(Int64): PrivateScope, Public, HideBySig, SpecialName
+    get_Creation(): PrivateScope, Public, HideBySig, SpecialName
+    set_Creation(DateTime): PrivateScope, Public, HideBySig, SpecialName
+    get_Framerate(): PrivateScope, Public, HideBySig, SpecialName
+    set_Framerate(Double): PrivateScope, Public, HideBySig, SpecialName
+    get_Thumbs(): PrivateScope, Public, HideBySig, SpecialName
+Class Kinovea.Video.VideoTypeManager: AutoLayout, AnsiClass, Class, Public, Abstract, Sealed, BeforeFieldInit
+  Events:
+    System.EventHandler`1[Kinovea.Video.VideoLoadAskedEventArgs] VideoLoadAsked: 
+  Methods:
+    add_VideoLoadAsked(EventHandler`1): PrivateScope, Public, Static, HideBySig, SpecialName
+    remove_VideoLoadAsked(EventHandler`1): PrivateScope, Public, Static, HideBySig, SpecialName
+    LoadVideoReaders(List`1): PrivateScope, Public, Static, HideBySig
+    LoadVideoReaders(): PrivateScope, Public, Static, HideBySig
+    GetVideoReader(String): PrivateScope, Public, Static, HideBySig
+    GetImageSequenceReader(): PrivateScope, Public, Static, HideBySig
+    IsSupported(String): PrivateScope, Public, Static, HideBySig
+    LoadVideo(String, Int32): PrivateScope, Public, Static, HideBySig
+Class Kinovea.Base.Averager: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(Double): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Double Average 'get ' : 
+  Methods:
+    get_Average(): PrivateScope, Public, HideBySig, SpecialName
+    Post(Int64): PrivateScope, Public, HideBySig
+    Post(Double): PrivateScope, Public, HideBySig
+    Reset(): PrivateScope, Public, HideBySig
+Class Kinovea.Base.DropWatcher: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Double Ratio 'get ' : 
+  Methods:
+    AddDropStatus(Boolean): PrivateScope, Public, HideBySig
+    get_Ratio(): PrivateScope, Public, HideBySig, SpecialName
+    Restart(): PrivateScope, Public, HideBySig
+Class Kinovea.Base.LoopWatcher: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Double Average 'get ' : 
+  Methods:
+    AddLoopTime(Double): PrivateScope, Public, HideBySig
+    get_Average(): PrivateScope, Public, HideBySig, SpecialName
+    Restart(): PrivateScope, Public, HideBySig
+    LoopStart(): PrivateScope, Public, HideBySig
+    LoopEnd(): PrivateScope, Public, HideBySig
+Class Kinovea.Base.TimeWatcher: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Diagnostics.Stopwatch
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Restart(): PrivateScope, Public, HideBySig
+    LogTime(String): PrivateScope, Public, HideBySig
+    Time(String): PrivateScope, Public, HideBySig
+    RawTime(String): PrivateScope, Public, HideBySig
+    DumpTimes(): PrivateScope, Public, HideBySig

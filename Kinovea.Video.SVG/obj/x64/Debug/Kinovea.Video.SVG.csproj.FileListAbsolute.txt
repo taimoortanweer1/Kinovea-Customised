@@ -1,0 +1,14 @@
+D:\Work\FreelancerProjects\Fiverr\Kinovea\Kinovea\bin\x64\Debug\Kinovea.Video.SVG.dll
+D:\Work\FreelancerProjects\Fiverr\Kinovea\Kinovea\bin\x64\Debug\Kinovea.Video.SVG.pdb
+D:\Work\FreelancerProjects\Fiverr\Kinovea\Kinovea.Video.SVG\obj\x64\Debug\Kinovea.Video.SVG.csprojAssemblyReference.cache
+D:\Work\FreelancerProjects\Fiverr\Kinovea\Kinovea.Video.SVG\obj\x64\Debug\Kinovea.Video.SVG.csproj.CoreCompileInputs.cache
+D:\Work\FreelancerProjects\Fiverr\Kinovea\Kinovea.Video.SVG\obj\x64\Debug\Kinovea.Video.SVG.csproj.CopyComplete
+D:\Work\FreelancerProjects\Fiverr\Kinovea\Kinovea.Video.SVG\obj\x64\Debug\Kinovea.Video.SVG.dll
+D:\Work\FreelancerProjects\Fiverr\Kinovea\Kinovea.Video.SVG\obj\x64\Debug\Kinovea.Video.SVG.pdb
+D:\Work\FreelancerProjects\Fiverr\Kin\Kinovea\Kinovea\bin\x64\Debug\Kinovea.Video.SVG.dll
+D:\Work\FreelancerProjects\Fiverr\Kin\Kinovea\Kinovea\bin\x64\Debug\Kinovea.Video.SVG.pdb
+D:\Work\FreelancerProjects\Fiverr\Kin\Kinovea\Kinovea.Video.SVG\obj\x64\Debug\Kinovea.Video.SVG.csprojAssemblyReference.cache
+D:\Work\FreelancerProjects\Fiverr\Kin\Kinovea\Kinovea.Video.SVG\obj\x64\Debug\Kinovea.Video.SVG.csproj.CoreCompileInputs.cache
+D:\Work\FreelancerProjects\Fiverr\Kin\Kinovea\Kinovea.Video.SVG\obj\x64\Debug\Kinovea.Video.SVG.csproj.CopyComplete
+D:\Work\FreelancerProjects\Fiverr\Kin\Kinovea\Kinovea.Video.SVG\obj\x64\Debug\Kinovea.Video.SVG.dll
+D:\Work\FreelancerProjects\Fiverr\Kin\Kinovea\Kinovea.Video.SVG\obj\x64\Debug\Kinovea.Video.SVG.pdb

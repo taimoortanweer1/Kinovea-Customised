@@ -1,0 +1,5 @@
+D:\Work\FreelancerProjects\Fiverr\Kinovea\Kinovea\bin\x86\Release\Kinovea.Video.dll
+D:\Work\FreelancerProjects\Fiverr\Kinovea\Kinovea.Video\obj\x86\Release\Kinovea.Video.csprojAssemblyReference.cache
+D:\Work\FreelancerProjects\Fiverr\Kinovea\Kinovea.Video\obj\x86\Release\Kinovea.Video.csproj.CoreCompileInputs.cache
+D:\Work\FreelancerProjects\Fiverr\Kinovea\Kinovea.Video\obj\x86\Release\Kinovea.Video.csproj.CopyComplete
+D:\Work\FreelancerProjects\Fiverr\Kinovea\Kinovea.Video\obj\x86\Release\Kinovea.Video.dll

@@ -1,0 +1,129 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly Kinovea.Video.FFMpeg, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly Kinovea.Video, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=None, flags=None
+Assembly log4net, Version=2.0.8.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class Kinovea.Video.FFMpeg.SavingContext: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    AVOutputFormat* pOutputFormat : Public
+    AVFormatContext* pOutputFormatContext : Public
+    AVCodec* pOutputCodec : Public
+    AVCodecContext* pOutputCodecContext : Public
+    AVStream* pOutputVideoStream : Public
+    AVStream* pOutputDataStream : Public
+    AVFrame* pInputFrame : Public
+    SwsContext* pScalingContext : Public
+    Double fPixelAspectRatio : Public
+    Boolean bInputWasMpeg2 : Public
+    Int32 iSampleAspectRatioNumerator : Public
+    Int32 iSampleAspectRatioDenominator : Public
+    SByte* pFilePath : Public
+    Double fFramesInterval : Public
+    Int32 iBitrate : Public
+    System.Drawing.Size outputSize : Public
+    Boolean uncompressed : Public
+    Boolean bEncoderOpened : Public
+Class Kinovea.Video.FFMpeg.MJPEGWriter: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.IDisposable
+  Methods:
+    OpenSavingContext(String, VideoInfo, String, ImageFormat, Boolean(HasFieldMarshal), Double, Double, ImageRotation): PrivateScope, Public, HideBySig
+    CloseSavingContext(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    SaveFrame(ImageFormat, Byte[], Int64, Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    Dispose(): PrivateScope, Public, Final, Virtual, HideBySig
+Class Kinovea.Video.FFMpeg.VideoFileWriter: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.IDisposable
+  Properties:
+    System.String Filename 'get ' : 
+  Methods:
+    get_Filename(): PrivateScope, Public, HideBySig, SpecialName
+    Save(SavingSettings, VideoInfo, String, IEnumerable`1, BackgroundWorker): PrivateScope, Public, HideBySig
+    OpenSavingContext(String, VideoInfo, String, Double): PrivateScope, Public, HideBySig
+    CloseSavingContext(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    SaveFrame(Bitmap): PrivateScope, Public, HideBySig
+    Dispose(): PrivateScope, Public, Final, Virtual, HideBySig
+Struct Kinovea.Video.FFMpeg.TimestampInfo: AutoLayout, AnsiClass, Class, Public, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+    Void .ctor(Int64, Int64, Int64): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int64 CurrentTimestamp : Public
+    Int64 BufferedPTS : Public
+    Int64 LastDecodedPTS : Public
+  Properties:
+    Kinovea.Video.FFMpeg.TimestampInfo Empty 'get ' : 
+  Methods:
+    get_Empty(): PrivateScope, Public, Static, HideBySig, SpecialName
+Class Kinovea.Video.FFMpeg.VideoReaderFFMpeg: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :Kinovea.Video.VideoReader
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.IDisposable
+  Properties:
+    Boolean CanDrawUnscaled 'get ' : 
+    Int32 Drops 'get ' : 
+    Kinovea.Video.VideoFrame Current 'get ' : 
+    Kinovea.Video.VideoSection PreBufferingSegment 'get ' : 
+    Kinovea.Video.VideoSection WorkingZone 'get ' : 
+    Kinovea.Video.IWorkingZoneFramesContainer WorkingZoneFrames 'get ' : 
+    Kinovea.Video.VideoInfo Info 'get ' : 
+    Boolean Loaded 'get ' : 
+    Kinovea.Video.VideoDecodingMode DecodingMode 'get ' : 
+    Kinovea.Video.VideoCapabilities Flags 'get ' : 
+  Methods:
+    get_Flags(): PrivateScope, Public, Virtual, HideBySig, SpecialName
+    get_DecodingMode(): PrivateScope, Public, Virtual, HideBySig, SpecialName
+    get_Loaded(): PrivateScope, Public, Virtual, HideBySig, SpecialName
+    get_Info(): PrivateScope, Public, Virtual, HideBySig, SpecialName
+    get_WorkingZoneFrames(): PrivateScope, Public, Virtual, HideBySig, SpecialName
+    get_WorkingZone(): PrivateScope, Public, Virtual, HideBySig, SpecialName
+    get_PreBufferingSegment(): PrivateScope, Public, Virtual, HideBySig, SpecialName
+    get_Current(): PrivateScope, Public, Virtual, HideBySig, SpecialName
+    get_Drops(): PrivateScope, Public, Virtual, HideBySig, SpecialName
+    get_CanDrawUnscaled(): PrivateScope, Public, Virtual, HideBySig, SpecialName
+    Open(String): PrivateScope, Public, Virtual, HideBySig
+    Close(): PrivateScope, Public, Virtual, HideBySig
+    MoveNext(Int32, Boolean(HasFieldMarshal)): PrivateScope, Public, Virtual, HideBySig
+    MoveTo(Int64): PrivateScope, Public, Virtual, HideBySig
+    ExtractSummary(String, Int32, Size): PrivateScope, Public, Virtual, HideBySig
+    PostLoad(): PrivateScope, Public, Virtual, HideBySig
+    ReadMetadata(): PrivateScope, Public, Virtual, HideBySig
+    ChangeAspectRatio(ImageAspectRatio): PrivateScope, Public, Virtual, HideBySig
+    ChangeImageRotation(ImageRotation): PrivateScope, Public, Virtual, HideBySig
+    ChangeDemosaicing(Demosaicing): PrivateScope, Public, Virtual, HideBySig
+    ChangeDeinterlace(Boolean(HasFieldMarshal)): PrivateScope, Public, Virtual, HideBySig
+    ChangeDecodingSize(Size): PrivateScope, Public, Virtual, HideBySig
+    DisableCustomDecodingSize(): PrivateScope, Public, Virtual, HideBySig
+    BeforePlayloop(): PrivateScope, Public, Virtual, HideBySig
+    BeforeFrameEnumeration(): PrivateScope, Public, Virtual, HideBySig
+    AfterFrameEnumeration(): PrivateScope, Public, Virtual, HideBySig
+    UpdateWorkingZone(VideoSection, Boolean(HasFieldMarshal), Int32, Int32, Action`1): PrivateScope, Public, Virtual, HideBySig
+    ResetDrops(): PrivateScope, Public, Virtual, HideBySig
+    Dispose(): PrivateScope, Public, Final, Virtual, HideBySig
+Struct Kinovea.Video.FFMpeg.ReadResult: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    Kinovea.Video.FFMpeg.ReadResult Success = 0 : Public, Static, Literal, HasDefault
+    Kinovea.Video.FFMpeg.ReadResult MovieNotLoaded = 1 : Public, Static, Literal, HasDefault
+    Kinovea.Video.FFMpeg.ReadResult FrameContainerNotSet = 2 : Public, Static, Literal, HasDefault
+    Kinovea.Video.FFMpeg.ReadResult MemoryNotAllocated = 3 : Public, Static, Literal, HasDefault
+    Kinovea.Video.FFMpeg.ReadResult ImageNotConverted = 4 : Public, Static, Literal, HasDefault
+    Kinovea.Video.FFMpeg.ReadResult FrameNotRead = 5 : Public, Static, Literal, HasDefault

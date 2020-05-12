@@ -1,0 +1,13 @@
+D:\Work\FreelancerProjects\Fiverr\Kinovea\Kinovea\bin\x64\Debug\Kinovea.Video.Synthetic.dll
+D:\Work\FreelancerProjects\Fiverr\Kinovea\Kinovea\bin\x64\Debug\Kinovea.Video.Synthetic.pdb
+D:\Work\FreelancerProjects\Fiverr\Kinovea\Kinovea.Video.Synthetic\obj\x64\Debug\Kinovea.Video.Synthetic.csprojAssemblyReference.cache
+D:\Work\FreelancerProjects\Fiverr\Kinovea\Kinovea.Video.Synthetic\obj\x64\Debug\Kinovea.Video.Synthetic.csproj.CoreCompileInputs.cache
+D:\Work\FreelancerProjects\Fiverr\Kinovea\Kinovea.Video.Synthetic\obj\x64\Debug\Kinovea.Video.Synthetic.csproj.CopyComplete
+D:\Work\FreelancerProjects\Fiverr\Kinovea\Kinovea.Video.Synthetic\obj\x64\Debug\Kinovea.Video.Synthetic.dll
+D:\Work\FreelancerProjects\Fiverr\Kinovea\Kinovea.Video.Synthetic\obj\x64\Debug\Kinovea.Video.Synthetic.pdb
+D:\Work\FreelancerProjects\Fiverr\Kin\Kinovea\Kinovea\bin\x64\Debug\Kinovea.Video.Synthetic.dll
+D:\Work\FreelancerProjects\Fiverr\Kin\Kinovea\Kinovea\bin\x64\Debug\Kinovea.Video.Synthetic.pdb
+D:\Work\FreelancerProjects\Fiverr\Kin\Kinovea\Kinovea.Video.Synthetic\obj\x64\Debug\Kinovea.Video.Synthetic.csproj.CoreCompileInputs.cache
+D:\Work\FreelancerProjects\Fiverr\Kin\Kinovea\Kinovea.Video.Synthetic\obj\x64\Debug\Kinovea.Video.Synthetic.csproj.CopyComplete
+D:\Work\FreelancerProjects\Fiverr\Kin\Kinovea\Kinovea.Video.Synthetic\obj\x64\Debug\Kinovea.Video.Synthetic.dll
+D:\Work\FreelancerProjects\Fiverr\Kin\Kinovea\Kinovea.Video.Synthetic\obj\x64\Debug\Kinovea.Video.Synthetic.pdb

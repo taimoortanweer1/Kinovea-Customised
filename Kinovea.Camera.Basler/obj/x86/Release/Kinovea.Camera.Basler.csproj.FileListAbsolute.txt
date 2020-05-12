@@ -1,0 +1,4 @@
+D:\Work\FreelancerProjects\Fiverr\Kinovea\Kinovea.Camera.Basler\obj\x86\Release\Kinovea.Camera.Basler.csprojAssemblyReference.cache
+D:\Work\FreelancerProjects\Fiverr\Kinovea\Kinovea.Camera.Basler\obj\x86\Release\Kinovea.Camera.Basler.FormConfiguration.resources
+D:\Work\FreelancerProjects\Fiverr\Kinovea\Kinovea.Camera.Basler\obj\x86\Release\Kinovea.Camera.Basler.csproj.GenerateResource.cache
+D:\Work\FreelancerProjects\Fiverr\Kinovea\Kinovea.Camera.Basler\obj\x86\Release\Kinovea.Camera.Basler.csproj.CoreCompileInputs.cache

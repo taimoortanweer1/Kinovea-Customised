@@ -1,0 +1,12 @@
+D:\Work\FreelancerProjects\Fiverr\Kinovea\Kinovea\bin\x64\Debug\Kinovea.Video.GIF.dll
+D:\Work\FreelancerProjects\Fiverr\Kinovea\Kinovea\bin\x64\Debug\Kinovea.Video.GIF.pdb
+D:\Work\FreelancerProjects\Fiverr\Kinovea\Kinovea.Video.GIF\obj\x64\Debug\Kinovea.Video.GIF.csproj.CoreCompileInputs.cache
+D:\Work\FreelancerProjects\Fiverr\Kinovea\Kinovea.Video.GIF\obj\x64\Debug\Kinovea.Video.GIF.csproj.CopyComplete
+D:\Work\FreelancerProjects\Fiverr\Kinovea\Kinovea.Video.GIF\obj\x64\Debug\Kinovea.Video.GIF.dll
+D:\Work\FreelancerProjects\Fiverr\Kinovea\Kinovea.Video.GIF\obj\x64\Debug\Kinovea.Video.GIF.pdb
+D:\Work\FreelancerProjects\Fiverr\Kin\Kinovea\Kinovea\bin\x64\Debug\Kinovea.Video.GIF.dll
+D:\Work\FreelancerProjects\Fiverr\Kin\Kinovea\Kinovea\bin\x64\Debug\Kinovea.Video.GIF.pdb
+D:\Work\FreelancerProjects\Fiverr\Kin\Kinovea\Kinovea.Video.GIF\obj\x64\Debug\Kinovea.Video.GIF.csproj.CoreCompileInputs.cache
+D:\Work\FreelancerProjects\Fiverr\Kin\Kinovea\Kinovea.Video.GIF\obj\x64\Debug\Kinovea.Video.GIF.csproj.CopyComplete
+D:\Work\FreelancerProjects\Fiverr\Kin\Kinovea\Kinovea.Video.GIF\obj\x64\Debug\Kinovea.Video.GIF.dll
+D:\Work\FreelancerProjects\Fiverr\Kin\Kinovea\Kinovea.Video.GIF\obj\x64\Debug\Kinovea.Video.GIF.pdb
