@@ -48,7 +48,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.label1.Location = new System.Drawing.Point(208, 13);
+            this.label1.Location = new System.Drawing.Point(172, 9);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(158, 20);
             this.label1.TabIndex = 1;
@@ -56,7 +56,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(201, 425);
+            this.button1.Location = new System.Drawing.Point(214, 425);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 2;
