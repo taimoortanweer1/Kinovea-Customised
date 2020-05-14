@@ -11,3 +11,10 @@ D:\Work\FreelancerProjects\Fiverr\Kin\Kinovea\Kinovea.Video.Bitmap\obj\x64\Debug
 D:\Work\FreelancerProjects\Fiverr\Kin\Kinovea\Kinovea.Video.Bitmap\obj\x64\Debug\Kinovea.Video.Bitmap.csproj.CopyComplete
 D:\Work\FreelancerProjects\Fiverr\Kin\Kinovea\Kinovea.Video.Bitmap\obj\x64\Debug\Kinovea.Video.Bitmap.dll
 D:\Work\FreelancerProjects\Fiverr\Kin\Kinovea\Kinovea.Video.Bitmap\obj\x64\Debug\Kinovea.Video.Bitmap.pdb
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea\bin\x64\Debug\Kinovea.Video.Bitmap.dll
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea\bin\x64\Debug\Kinovea.Video.Bitmap.pdb
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea.Video.Bitmap\obj\x64\Debug\Kinovea.Video.Bitmap.csprojAssemblyReference.cache
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea.Video.Bitmap\obj\x64\Debug\Kinovea.Video.Bitmap.csproj.CoreCompileInputs.cache
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea.Video.Bitmap\obj\x64\Debug\Kinovea.Video.Bitmap.csproj.CopyComplete
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea.Video.Bitmap\obj\x64\Debug\Kinovea.Video.Bitmap.dll
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea.Video.Bitmap\obj\x64\Debug\Kinovea.Video.Bitmap.pdb

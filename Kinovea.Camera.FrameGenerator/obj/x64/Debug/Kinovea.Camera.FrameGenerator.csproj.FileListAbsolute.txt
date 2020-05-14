@@ -18,3 +18,13 @@ D:\Work\FreelancerProjects\Fiverr\Kin\Kinovea\Kinovea.Camera.FrameGenerator\obj\
 D:\Work\FreelancerProjects\Fiverr\Kin\Kinovea\Kinovea.Camera.FrameGenerator\obj\x64\Debug\Kinovea.Camera.FrameGenerator.csproj.CopyComplete
 D:\Work\FreelancerProjects\Fiverr\Kin\Kinovea\Kinovea.Camera.FrameGenerator\obj\x64\Debug\Kinovea.Camera.FrameGenerator.dll
 D:\Work\FreelancerProjects\Fiverr\Kin\Kinovea\Kinovea.Camera.FrameGenerator\obj\x64\Debug\Kinovea.Camera.FrameGenerator.pdb
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea\bin\x64\Debug\Kinovea.Camera.FrameGenerator.dll
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea\bin\x64\Debug\Kinovea.Camera.FrameGenerator.pdb
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea.Camera.FrameGenerator\obj\x64\Debug\Kinovea.Camera.FrameGenerator.csprojAssemblyReference.cache
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea.Camera.FrameGenerator\obj\x64\Debug\Kinovea.Camera.FrameGenerator.ConnectionWizard.resources
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea.Camera.FrameGenerator\obj\x64\Debug\Kinovea.Camera.FrameGenerator.FormConfiguration.resources
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea.Camera.FrameGenerator\obj\x64\Debug\Kinovea.Camera.FrameGenerator.csproj.GenerateResource.cache
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea.Camera.FrameGenerator\obj\x64\Debug\Kinovea.Camera.FrameGenerator.csproj.CoreCompileInputs.cache
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea.Camera.FrameGenerator\obj\x64\Debug\Kinovea.Camera.FrameGenerator.csproj.CopyComplete
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea.Camera.FrameGenerator\obj\x64\Debug\Kinovea.Camera.FrameGenerator.dll
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea.Camera.FrameGenerator\obj\x64\Debug\Kinovea.Camera.FrameGenerator.pdb

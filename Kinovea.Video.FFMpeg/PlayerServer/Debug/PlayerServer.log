@@ -1,23 +1,23 @@
 ﻿  AssemblyInfo.cpp
   MJPEGWriter.cpp
-D:\Work\FreelancerProjects\Fiverr\Kin\Kinovea\Kinovea.Video.FFMpeg\PlayerServer\MJPEGWriter.cpp(620,27): warning C4996: 'avcodec_encode_video': was declared deprecated
-D:\Work\FreelancerProjects\Fiverr\Kin\Kinovea\Kinovea.Video.FFMpeg\PlayerServer\MJPEGWriter.cpp(715,27): warning C4996: 'avcodec_encode_video': was declared deprecated
-D:\Work\FreelancerProjects\Fiverr\Kin\Kinovea\Kinovea.Video.FFMpeg\PlayerServer\MJPEGWriter.cpp(769,25): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
-D:\Work\FreelancerProjects\Fiverr\Kin\Kinovea\Kinovea.Video.FFMpeg\PlayerServer\MJPEGWriter.cpp(824,23): warning C4996: 'avcodec_encode_video': was declared deprecated
-D:\Work\FreelancerProjects\Fiverr\Kin\Kinovea\Kinovea.Video.FFMpeg\PlayerServer\MJPEGWriter.cpp(859,21): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea.Video.FFMpeg\PlayerServer\MJPEGWriter.cpp(620,27): warning C4996: 'avcodec_encode_video': was declared deprecated
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea.Video.FFMpeg\PlayerServer\MJPEGWriter.cpp(715,27): warning C4996: 'avcodec_encode_video': was declared deprecated
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea.Video.FFMpeg\PlayerServer\MJPEGWriter.cpp(769,25): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea.Video.FFMpeg\PlayerServer\MJPEGWriter.cpp(824,23): warning C4996: 'avcodec_encode_video': was declared deprecated
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea.Video.FFMpeg\PlayerServer\MJPEGWriter.cpp(859,21): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
   VideoFileWriter.cpp
-D:\Work\FreelancerProjects\Fiverr\Kin\Kinovea\Kinovea.Video.FFMpeg\PlayerServer\VideoFileWriter.cpp(74,40): warning C4244: 'argument': conversion from 'int64_t' to 'int', possible loss of data
-D:\Work\FreelancerProjects\Fiverr\Kin\Kinovea\Kinovea.Video.FFMpeg\PlayerServer\VideoFileWriter.cpp(151,47): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-D:\Work\FreelancerProjects\Fiverr\Kin\Kinovea\Kinovea.Video.FFMpeg\PlayerServer\VideoFileWriter.cpp(676,27): warning C4996: 'avcodec_encode_video': was declared deprecated
-D:\Work\FreelancerProjects\Fiverr\Kin\Kinovea\Kinovea.Video.FFMpeg\PlayerServer\VideoFileWriter.cpp(725,76): warning C4996: 'AVCodecContext::coded_frame': was declared deprecated
-D:\Work\FreelancerProjects\Fiverr\Kin\Kinovea\Kinovea.Video.FFMpeg\PlayerServer\VideoFileWriter.cpp(728,47): warning C4996: 'AVCodecContext::coded_frame': was declared deprecated
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea.Video.FFMpeg\PlayerServer\VideoFileWriter.cpp(74,40): warning C4244: 'argument': conversion from 'int64_t' to 'int', possible loss of data
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea.Video.FFMpeg\PlayerServer\VideoFileWriter.cpp(151,47): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea.Video.FFMpeg\PlayerServer\VideoFileWriter.cpp(676,27): warning C4996: 'avcodec_encode_video': was declared deprecated
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea.Video.FFMpeg\PlayerServer\VideoFileWriter.cpp(725,76): warning C4996: 'AVCodecContext::coded_frame': was declared deprecated
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea.Video.FFMpeg\PlayerServer\VideoFileWriter.cpp(728,47): warning C4996: 'AVCodecContext::coded_frame': was declared deprecated
   VideoReaderFFMpeg.cpp
-D:\Work\FreelancerProjects\Fiverr\Kin\Kinovea\Kinovea.Video.FFMpeg\PlayerServer\VideoReaderFFMpeg.cpp(364,27): warning C4244: 'initializing': conversion from '__int64' to 'long', possible loss of data
-D:\Work\FreelancerProjects\Fiverr\Kin\Kinovea\Kinovea.Video.FFMpeg\PlayerServer\VideoReaderFFMpeg.cpp(390,27): warning C4244: 'initializing': conversion from '__int64' to 'long', possible loss of data
-D:\Work\FreelancerProjects\Fiverr\Kin\Kinovea\Kinovea.Video.FFMpeg\PlayerServer\VideoReaderFFMpeg.cpp(817,29): warning C4244: 'initializing': conversion from 'int64_t' to 'long', possible loss of data
-D:\Work\FreelancerProjects\Fiverr\Kin\Kinovea\Kinovea.Video.FFMpeg\PlayerServer\VideoReaderFFMpeg.cpp(1184,26): warning C4244: 'initializing': conversion from 'int64_t' to 'long', possible loss of data
-D:\Work\FreelancerProjects\Fiverr\Kin\Kinovea\Kinovea.Video.FFMpeg\PlayerServer\VideoReaderFFMpeg.cpp(1395,24): warning C4996: 'avpicture_deinterlace': was declared deprecated
-D:\Work\FreelancerProjects\Fiverr\Kin\Kinovea\Kinovea.Video.FFMpeg\PlayerServer\VideoReaderFFMpeg.cpp(1496,77): warning C4996: 'AVCodecContext::codec_name': was declared deprecated
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea.Video.FFMpeg\PlayerServer\VideoReaderFFMpeg.cpp(364,27): warning C4244: 'initializing': conversion from '__int64' to 'long', possible loss of data
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea.Video.FFMpeg\PlayerServer\VideoReaderFFMpeg.cpp(390,27): warning C4244: 'initializing': conversion from '__int64' to 'long', possible loss of data
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea.Video.FFMpeg\PlayerServer\VideoReaderFFMpeg.cpp(817,29): warning C4244: 'initializing': conversion from 'int64_t' to 'long', possible loss of data
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea.Video.FFMpeg\PlayerServer\VideoReaderFFMpeg.cpp(1184,26): warning C4244: 'initializing': conversion from 'int64_t' to 'long', possible loss of data
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea.Video.FFMpeg\PlayerServer\VideoReaderFFMpeg.cpp(1395,24): warning C4996: 'avpicture_deinterlace': was declared deprecated
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea.Video.FFMpeg\PlayerServer\VideoReaderFFMpeg.cpp(1496,77): warning C4996: 'AVCodecContext::codec_name': was declared deprecated
   Generating Code...
   .NETFramework,Version=v4.8.AssemblyAttributes.cpp
 VideoReaderFFMpeg.obj : warning LNK4248: unresolved typeref token (01000011) for 'SwsContext'; image may not run
@@ -26,4 +26,4 @@ MJPEGWriter.obj : warning LNK4248: unresolved typeref token (0100000B) for 'SwsC
 VideoReaderFFMpeg.obj : warning LNK4248: unresolved typeref token (01000039) for 'AVDictionary'; image may not run
 VideoFileWriter.obj : warning LNK4248: unresolved typeref token (01000020) for 'AVDictionary'; image may not run
 MJPEGWriter.obj : warning LNK4248: unresolved typeref token (0100001E) for 'AVDictionary'; image may not run
-  PlayerServer.vcxproj -> D:\Work\FreelancerProjects\Fiverr\Kin\Kinovea\Kinovea.Video.FFMpeg\PlayerServer\..\bin\Kinovea.Video.FFMpeg.dll
+  PlayerServer.vcxproj -> D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea.Video.FFMpeg\PlayerServer\..\bin\Kinovea.Video.FFMpeg.dll

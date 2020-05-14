@@ -29,7 +29,6 @@ namespace Kinovea.Root
         private void InitializeComponent()
         {
             this.lblInfo = new System.Windows.Forms.Label();
-            this.lblVersion = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -37,27 +36,14 @@ namespace Kinovea.Root
             // lblInfo
             // 
             this.lblInfo.AutoSize = true;
-            this.lblInfo.BackColor = System.Drawing.Color.White;
+            this.lblInfo.BackColor = System.Drawing.Color.Black;
             this.lblInfo.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblInfo.ForeColor = System.Drawing.Color.Black;
-            this.lblInfo.Location = new System.Drawing.Point(12, 232);
+            this.lblInfo.ForeColor = System.Drawing.Color.White;
+            this.lblInfo.Location = new System.Drawing.Point(12, 319);
             this.lblInfo.Name = "lblInfo";
             this.lblInfo.Size = new System.Drawing.Size(48, 13);
             this.lblInfo.TabIndex = 0;
             this.lblInfo.Text = "loading";
-            // 
-            // lblVersion
-            // 
-            this.lblVersion.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
-            this.lblVersion.AutoSize = true;
-            this.lblVersion.BackColor = System.Drawing.Color.White;
-            this.lblVersion.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblVersion.ForeColor = System.Drawing.Color.DimGray;
-            this.lblVersion.Location = new System.Drawing.Point(340, 232);
-            this.lblVersion.Name = "lblVersion";
-            this.lblVersion.Size = new System.Drawing.Size(48, 13);
-            this.lblVersion.TabIndex = 1;
-            this.lblVersion.Text = "version";
             // 
             // pictureBox1
             // 
@@ -69,7 +55,7 @@ namespace Kinovea.Root
             this.pictureBox1.Image = global::Kinovea.Root.Properties.Resources.splash1;
             this.pictureBox1.Location = new System.Drawing.Point(0, 0);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(450, 250);
+            this.pictureBox1.Size = new System.Drawing.Size(450, 341);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 2;
             this.pictureBox1.TabStop = false;
@@ -79,9 +65,8 @@ namespace Kinovea.Root
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(450, 250);
+            this.ClientSize = new System.Drawing.Size(450, 341);
             this.ControlBox = false;
-            this.Controls.Add(this.lblVersion);
             this.Controls.Add(this.lblInfo);
             this.Controls.Add(this.pictureBox1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
@@ -99,7 +84,6 @@ namespace Kinovea.Root
         #endregion
 
         private System.Windows.Forms.Label lblInfo;
-        private System.Windows.Forms.Label lblVersion;
         private System.Windows.Forms.PictureBox pictureBox1;
     }
 }

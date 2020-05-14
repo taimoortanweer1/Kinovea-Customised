@@ -69,17 +69,23 @@ namespace Kinovea.Root
 
             IntroAboutForm introForm = new IntroAboutForm();
             introForm.ShowDialog();
-            
 
-            FormSplashScreen splashForm = new FormSplashScreen();
 
-            splashForm.Show();
-            splashForm.Update();
+            if (introForm.close == false)
+            {
+                FormSplashScreen splashForm = new FormSplashScreen();
 
-            System.Threading.Thread.Sleep(3000);
-            splashForm.Hide();
-            splashForm.Dispose();
+                splashForm.Show();
+                splashForm.Update();
 
+                System.Threading.Thread.Sleep(3000);
+                splashForm.Hide();
+                splashForm.Dispose();
+            }
+            else
+            {
+                Application.Exit();
+            }
 
         }
         #endregion

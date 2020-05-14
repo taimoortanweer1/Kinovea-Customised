@@ -38,7 +38,7 @@
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "FormHelpCM";
-            this.Text = "Help Clean Hands™";
+            this.Text = "Help | Clean Hands™";
             this.ResumeLayout(false);
 
         }

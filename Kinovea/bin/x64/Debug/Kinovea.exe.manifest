@@ -163,14 +163,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Kinovea.exe" size="1905664">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Kinovea.exe" size="1910784">
       <assemblyIdentity name="Kinovea" version="0.9.2.0" language="neutral" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>FjSNq2+ku7j/m5lR61LWEIgEQrIdjxuH1cUfWhoCj2Q=</dsig:DigestValue>
+        <dsig:DigestValue>eSP5KW6PdrOolJEvgnd40h+ac9aZTHFWK0ZM8M2emxs=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -182,19 +182,19 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>9kg+Bq0VC6tbhzDLPxZJRrtbJ6j7cMAhAwG7UOJhM+4=</dsig:DigestValue>
+        <dsig:DigestValue>pP1aP6JcHdUJdJWwv+VINxNvTEg0DYkoRgweobvM2Rg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Kinovea.Camera.Basler.dll" size="65536">
-      <assemblyIdentity name="Kinovea.Camera.Basler" version="1.0.7435.38510" language="neutral" processorArchitecture="amd64" />
+      <assemblyIdentity name="Kinovea.Camera.Basler" version="1.0.7439.28585" language="neutral" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>AvGNSA9FMN8+tNKFSTQ4nUmDDg7ueS4/OLb7gJ7EuqY=</dsig:DigestValue>
+        <dsig:DigestValue>/0V5KIpQe+gtA5vtbaf7sxCYtzrIYnyx4AtRBr/IxUk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -206,7 +206,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>MBanSJ1QuP5hglIrxvXkrWAtbwnpb+vPYNk63L3k1ek=</dsig:DigestValue>
+        <dsig:DigestValue>E5g/bKsM+IeUipNGZ1FxfjXmyS/GXNOpuVYQ8j8H2lw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -218,7 +218,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>3NKUFPUetaMm0r4G83AtQUzn6z2CLx1wMtdqxGTqyR8=</dsig:DigestValue>
+        <dsig:DigestValue>DxdL5fl+120uCsWSJESq0/+pqriowDBnac5IlXzCTGA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -230,31 +230,31 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>x84Wmz2uhLlm1kWlcn4C9Yizm3AThm3a1IIGx6Qi+Xw=</dsig:DigestValue>
+        <dsig:DigestValue>+JP3V3vFAJwm1Mk7NEa4B1Y/X4pudC3Ud3qfrl7Pz44=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Kinovea.Camera.HTTP.dll" size="40960">
-      <assemblyIdentity name="Kinovea.Camera.HTTP" version="1.0.7435.38508" language="neutral" processorArchitecture="amd64" />
+      <assemblyIdentity name="Kinovea.Camera.HTTP" version="1.0.7439.28584" language="neutral" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>5O5L444o50j6410ApL8zSQdVLH1hfRCm1mcuNVEviV0=</dsig:DigestValue>
+        <dsig:DigestValue>N/zRRNw0PDoT4I6yVUWxoj9r6K2XItqIkwwLohGpGtw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Kinovea.Camera.IDS.dll" size="42496">
-      <assemblyIdentity name="Kinovea.Camera.IDS" version="1.0.7435.38511" language="neutral" processorArchitecture="amd64" />
+      <assemblyIdentity name="Kinovea.Camera.IDS" version="1.0.7439.28585" language="neutral" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>6RkImD+0lkyzWuvtkgcK+R0eM89j/nvovNlmAAZ6gBw=</dsig:DigestValue>
+        <dsig:DigestValue>vNnOUakla5Ydk65mWwH/9w64rXmhnm8JgE7nnKoKrQs=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -266,7 +266,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>xkmIIopGXQd8pn2S9zplrQoj3tObllcR0LlxxEotxlQ=</dsig:DigestValue>
+        <dsig:DigestValue>KEWe4h1zAbHw7FSuz5uofmbxZfh4hmqZUFKz1rO3+cE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -278,7 +278,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>hUEmNeuYd1heVM9geR20Iq+bO6fW13T9iyncHgV06aQ=</dsig:DigestValue>
+        <dsig:DigestValue>qOKLLOp8dFzdRek67CITiiFUiNtzM4YOamhAK4OY44k=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -290,7 +290,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>ZUAttNh9S+8SSRwv+41Tt0m9vwMGg7qVVgLyAYkuJ8g=</dsig:DigestValue>
+        <dsig:DigestValue>NaMX3sGuJGjlVBkL94DkY7S9bIZXsYqJN9P814qgBLI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -302,7 +302,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>i6E+t1Y8hzQiBZToNLwF94xdkElMcJ5cKyx47LcpwYw=</dsig:DigestValue>
+        <dsig:DigestValue>c+PX49uHGL15l4MlopP9Kswaeu3pkQUKP1YdLgDVkUk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -314,7 +314,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>IVXVPYrvMf0PPB403FxWezSz66MejmcLnmlkR+JsX3o=</dsig:DigestValue>
+        <dsig:DigestValue>9j3xZp/4KQ7esnlpM3LupK9AgmKT++WKZ/AZbAfaFNw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -326,7 +326,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>DAxFTRasLyCGNqYpVsqqI1IfhLkFY7dfgOrWbkkvNt8=</dsig:DigestValue>
+        <dsig:DigestValue>D/gCbV60apRpkOfUz9Fa87JSrp22la8hfdt4jLUHZKA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -338,7 +338,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Y43tTXAwh7e80kCHkHrf4ouLeiipZqTq148d2jxyNok=</dsig:DigestValue>
+        <dsig:DigestValue>D5GzDtpp++yL5Wn+OK9oKPEyxjK+v09ie6sd4zYV1Ks=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -350,7 +350,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>aCLIuEG74JeUF6I55rOPkAW88wCTY1MnXQmLR56MoUk=</dsig:DigestValue>
+        <dsig:DigestValue>QLfZNsLXJDSQpSq+l8AlwfNuCmr1u4LFAY8fKt0DqnE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -362,7 +362,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>/c3vy8SvtZU4wQXqAFVrv6ltzgPYzBVN33cThNCVJKY=</dsig:DigestValue>
+        <dsig:DigestValue>lG2fmjN3RzEiDRqMqYBltdLEY8jNq5m6C4wslqKcjOU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -374,7 +374,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>ai+Hm3EbvO8l8bg7OrAS4daq39GqreIBjv4tusoaWCQ=</dsig:DigestValue>
+        <dsig:DigestValue>7rpL5tV59XfPZkwoqPHCqpf3tr041v+vftF6z3fwj38=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -386,7 +386,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>qYkNvTfVTNi2w1dbWEHfMCJ0V0Cj+5YKEzsx0/Yi9OQ=</dsig:DigestValue>
+        <dsig:DigestValue>Af/ab2x84PWCsH5a2d6eat7wo5nCtwI82GVYF8OQAkY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -398,7 +398,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Ssby8z8GxPI/pYOIWGi949Jt4zMgXdSOVeZ3aT0xsx8=</dsig:DigestValue>
+        <dsig:DigestValue>yHSAaNDUMLhQwd9GMxn62aTBk6C4MSUD1VdtrWn6/Ak=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -410,7 +410,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>DI6EgbyFxtKK2cWCB+iE4EISG7xgmJdvUPtlLcIhZQs=</dsig:DigestValue>
+        <dsig:DigestValue>4ySeoJpRGtBBjdwP2IRCR2oOOI/4PZjN4YiM4wGRSok=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -422,7 +422,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>/2Fjht1jE16N37e2QzOzXaCrWUXa3XvoI0rTrkM4Bhc=</dsig:DigestValue>
+        <dsig:DigestValue>vJUWwZA5Z42Trh6UpG+XtfgmAb7iJtra+gSA5sly3VA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -434,7 +434,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>UJ20lH1YrQ0x6UgIy0siwUXnA/j9HEnqPGX2oLOdUSc=</dsig:DigestValue>
+        <dsig:DigestValue>zGw0IitwbkI2q6LxGSPeQk/g2pCJXo824VLZhldVWW4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -446,7 +446,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>FwqnEhWV4EZuUMih97iWqbjkJalXBeV77yo5qg5njcQ=</dsig:DigestValue>
+        <dsig:DigestValue>5vWsboG9waOjgxmOKb8QCNUstwvinAeaVx6yP5xVAls=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -458,7 +458,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>1hMm4Yi1+PwHRqsvoyYLD3vnVYywSMSIE1arDqYB4EU=</dsig:DigestValue>
+        <dsig:DigestValue>tgg5w8zT761WOcDcYK/b6AGx5NfompQjKB31FMUG1nc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -470,7 +470,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>iNNb/x4YdywpUEJtstTcP0vqBqHFqdmYxoMykP77dwE=</dsig:DigestValue>
+        <dsig:DigestValue>kXJAy88g1ou7ls/WQwWfSQhGT2l4UnUHdMkMGJj7ZS8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -482,7 +482,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>45yiR/EqVsOP1kInTH2+yCYvVmy1+mRLaj5grsVJsFY=</dsig:DigestValue>
+        <dsig:DigestValue>65sAeJUIGeXAIewmlSblafIPVUxgP6eT9LKDRyJD7v0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -494,7 +494,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>VEMTIlEL4OT7RWzKXhvZzcMQqqOeH/mGXq5YWgXFDd4=</dsig:DigestValue>
+        <dsig:DigestValue>z+3oYlvRWXuWgvq+otEJL51TlAfLhbdPKrT+ypme3T4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -506,7 +506,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>pidXkTx+vmTDNL09keE7+sej+3zZWUTo1IYamlQwXX8=</dsig:DigestValue>
+        <dsig:DigestValue>gBzxFi276jhRlwzesyzklF9ynHZfCR6AHk1ktZEPcWI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -518,7 +518,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>8CziqL9F6Neo5Pobu0wtXOwIIkODRHXvWxd7fj2SaVY=</dsig:DigestValue>
+        <dsig:DigestValue>w3qiKk+cd+aKsbqTbuqarVITXN6MeOgtLfbDIUBB/Dc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -530,7 +530,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>pP9SU0aFujC88HzEV56dIThdfa8Z1715oub2UHHVOOo=</dsig:DigestValue>
+        <dsig:DigestValue>B72BMo6FMyMcuOu9/IChPW4Shoma9a1TNuWM+WVKFzo=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -542,7 +542,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Hn23Kft2S9pa1Cv1e9KzQkDGJUfS5MR+cuvW1Rdyabo=</dsig:DigestValue>
+        <dsig:DigestValue>+0OUWxqkdVbwX8MARG0/ySs1B+SwTnZu0enLldPfoyQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -554,7 +554,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>pBc6NRW//79gxU/pc9Ki/Y0J7x7lT07HDq9kDnNTjW4=</dsig:DigestValue>
+        <dsig:DigestValue>w1uCLBtHn1eQNP7cXpC0xjqYSMTxdxkji4NfgLj/koI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -566,331 +566,331 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>8lv3B04ghY2MSXPO1Pz6e59/hd4IfuUBC8P1h/GXL2A=</dsig:DigestValue>
+        <dsig:DigestValue>D/fH4Di94S/oWVh3plggVOyq4+o09kcRZbAClndp0Bw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Kinovea.FileBrowser.dll" size="61440">
-      <assemblyIdentity name="Kinovea.FileBrowser" version="1.0.1.38510" language="neutral" processorArchitecture="amd64" />
+      <assemblyIdentity name="Kinovea.FileBrowser" version="1.0.1.28587" language="neutral" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>77c4zj8BZaZcvno6h1Z5NgQHt4Q+6546pA40oQQ8xqo=</dsig:DigestValue>
+        <dsig:DigestValue>KdhYGpPHm/BgLGsxisBi/3LcdsrS1brvFFPADT7yufU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ar\Kinovea.FileBrowser.resources.dll" size="4608">
-      <assemblyIdentity name="Kinovea.FileBrowser.resources" version="1.0.1.38510" language="ar" processorArchitecture="amd64" />
+      <assemblyIdentity name="Kinovea.FileBrowser.resources" version="1.0.1.28587" language="ar" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>ASlTrFWvL0wMbO3g3hJDnVteQpk8PNBOZr6VB8AdjTY=</dsig:DigestValue>
+        <dsig:DigestValue>3x2IN0fKF/LsM5/JMvaR2bGQzcjDNk5Y948lGKJXROI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ca\Kinovea.FileBrowser.resources.dll" size="4608">
-      <assemblyIdentity name="Kinovea.FileBrowser.resources" version="1.0.1.38510" language="ca" processorArchitecture="amd64" />
+      <assemblyIdentity name="Kinovea.FileBrowser.resources" version="1.0.1.28587" language="ca" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>2UddILSAJfF9Aonwe9Cp4NmgczbqDTdhypGYmqx6mqY=</dsig:DigestValue>
+        <dsig:DigestValue>3vUVI+b3BQ1kGGNS1atnxxF3yA2BY1bwsyFmHpHbuOY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="cs\Kinovea.FileBrowser.resources.dll" size="4096">
-      <assemblyIdentity name="Kinovea.FileBrowser.resources" version="1.0.1.38510" language="cs" processorArchitecture="amd64" />
+      <assemblyIdentity name="Kinovea.FileBrowser.resources" version="1.0.1.28587" language="cs" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>lJhYrQcEeGc3VezcZlpcGY6jJqEa70Wb692OcFTzVZ8=</dsig:DigestValue>
+        <dsig:DigestValue>IxnAFTH89VH+hGJr2pdNFXZafRzq60GIf+/BgQiBLwU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="da\Kinovea.FileBrowser.resources.dll" size="4096">
-      <assemblyIdentity name="Kinovea.FileBrowser.resources" version="1.0.1.38510" language="da" processorArchitecture="amd64" />
+      <assemblyIdentity name="Kinovea.FileBrowser.resources" version="1.0.1.28587" language="da" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>q6L9Z7dHFcVe1mZi/HADROFpFKY7iGYAAwegx2hZ16Q=</dsig:DigestValue>
+        <dsig:DigestValue>05z4chwkp3OEgvC6G8kWR0KWkyWT2TLWO0uahlEqYn4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="de\Kinovea.FileBrowser.resources.dll" size="4096">
-      <assemblyIdentity name="Kinovea.FileBrowser.resources" version="1.0.1.38510" language="de" processorArchitecture="amd64" />
+      <assemblyIdentity name="Kinovea.FileBrowser.resources" version="1.0.1.28587" language="de" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>OzIeoF5KeNCEmc1VROMigzZri3AWlilpo4R4imJJfv4=</dsig:DigestValue>
+        <dsig:DigestValue>OxKF5JCZ2Wnh4JwdLrxgReVe6QTvfJ2PRB91aH/TcJY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="el\Kinovea.FileBrowser.resources.dll" size="4096">
-      <assemblyIdentity name="Kinovea.FileBrowser.resources" version="1.0.1.38510" language="el" processorArchitecture="amd64" />
+      <assemblyIdentity name="Kinovea.FileBrowser.resources" version="1.0.1.28587" language="el" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>d1gJdzKbu7wES7UcVEHoh8/2PzxnqdUEQeN+XzOagq4=</dsig:DigestValue>
+        <dsig:DigestValue>kpA5S/YepDEdJxy0GqiC3lY9fs3+PPm9gcYICvxFMLQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="es\Kinovea.FileBrowser.resources.dll" size="4608">
-      <assemblyIdentity name="Kinovea.FileBrowser.resources" version="1.0.1.38510" language="es" processorArchitecture="amd64" />
+      <assemblyIdentity name="Kinovea.FileBrowser.resources" version="1.0.1.28587" language="es" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>/9Kmkzli/1TxI2tIOqD5bu5wQfbeyTvhAwOEuXMZjMg=</dsig:DigestValue>
+        <dsig:DigestValue>fgeGW2RkvvgixndO2DPF82RtqMB5KxfuBM7jcNBF9q8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="fa\Kinovea.FileBrowser.resources.dll" size="4608">
-      <assemblyIdentity name="Kinovea.FileBrowser.resources" version="1.0.1.38510" language="fa" processorArchitecture="amd64" />
+      <assemblyIdentity name="Kinovea.FileBrowser.resources" version="1.0.1.28587" language="fa" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>fEpc6KDU9bL0UVi4j7bJjwNTUsiBYD+3hSy/kXzT2Sk=</dsig:DigestValue>
+        <dsig:DigestValue>cpOt3hlkGbONKtzB+qmzSZ6hWd/mp2Q7tDgjwb3MkUk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="fi\Kinovea.FileBrowser.resources.dll" size="4096">
-      <assemblyIdentity name="Kinovea.FileBrowser.resources" version="1.0.1.38510" language="fi" processorArchitecture="amd64" />
+      <assemblyIdentity name="Kinovea.FileBrowser.resources" version="1.0.1.28587" language="fi" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>pOqWeJp+/x0vmwoY7JiZjkdxcLgppSIb6T9Hs0CZNsU=</dsig:DigestValue>
+        <dsig:DigestValue>fBEjcIlTJf6YFbKx2OhTDhyhlCn/+MYEHykEUNWRgk4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="fr\Kinovea.FileBrowser.resources.dll" size="4608">
-      <assemblyIdentity name="Kinovea.FileBrowser.resources" version="1.0.1.38510" language="fr" processorArchitecture="amd64" />
+      <assemblyIdentity name="Kinovea.FileBrowser.resources" version="1.0.1.28587" language="fr" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>+lTEZZB4/5Bgp1xuR2/1XhS2/BrkrsaHt7/J6JTOfOc=</dsig:DigestValue>
+        <dsig:DigestValue>HDcUDUOdMSvIVmjVfdEpPeWmCuc02OPihKQgNUjuFsU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="it\Kinovea.FileBrowser.resources.dll" size="4096">
-      <assemblyIdentity name="Kinovea.FileBrowser.resources" version="1.0.1.38510" language="it" processorArchitecture="amd64" />
+      <assemblyIdentity name="Kinovea.FileBrowser.resources" version="1.0.1.28587" language="it" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>WKQeodVcZTfk7Mchw6de1nywT2YWpm7TweLYuwmDBrU=</dsig:DigestValue>
+        <dsig:DigestValue>6HLZ8vh/R7Ei4rLDLr6rDNWrlSsvBK6160Om44MT1M0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ja\Kinovea.FileBrowser.resources.dll" size="4096">
-      <assemblyIdentity name="Kinovea.FileBrowser.resources" version="1.0.1.38510" language="ja" processorArchitecture="amd64" />
+      <assemblyIdentity name="Kinovea.FileBrowser.resources" version="1.0.1.28587" language="ja" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>ItD/IFWYuRz45QLOwPTjfNFGBlc4tzI2AE4mscF0yM0=</dsig:DigestValue>
+        <dsig:DigestValue>bxDyWPk/Hvy8R1PQ5WU5W8BnwYd4ZTDP+vO10N57ohM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ko\Kinovea.FileBrowser.resources.dll" size="4096">
-      <assemblyIdentity name="Kinovea.FileBrowser.resources" version="1.0.1.38510" language="ko" processorArchitecture="amd64" />
+      <assemblyIdentity name="Kinovea.FileBrowser.resources" version="1.0.1.28587" language="ko" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>InSJORvCw88ZDfVfskDgievt3lrByS+izJqF4QF6pWk=</dsig:DigestValue>
+        <dsig:DigestValue>INK8sD11+MVN3KcT/Tjh0+6RxvB02U9VbcUOuADQlzw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="lt\Kinovea.FileBrowser.resources.dll" size="4096">
-      <assemblyIdentity name="Kinovea.FileBrowser.resources" version="1.0.1.38510" language="lt" processorArchitecture="amd64" />
+      <assemblyIdentity name="Kinovea.FileBrowser.resources" version="1.0.1.28587" language="lt" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>ozgoBJvhMS0MK8jiIRaLdxnn6tRwCl8b1MwIAW3fTKs=</dsig:DigestValue>
+        <dsig:DigestValue>03rn9rYIT/z9vT1SuYQlI6OWtGLfjicKA+uyXVtcg9g=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="mk\Kinovea.FileBrowser.resources.dll" size="4096">
-      <assemblyIdentity name="Kinovea.FileBrowser.resources" version="1.0.1.38510" language="mk" processorArchitecture="amd64" />
+      <assemblyIdentity name="Kinovea.FileBrowser.resources" version="1.0.1.28587" language="mk" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>fmm/KLEAJ8wTJdpnJJr8SubbJzGhAwecfWbhhME6XnA=</dsig:DigestValue>
+        <dsig:DigestValue>soSJyPR/4jDao4UsEqT83Kh75DlqPKqhT4fBtpPkSs0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="nl\Kinovea.FileBrowser.resources.dll" size="4608">
-      <assemblyIdentity name="Kinovea.FileBrowser.resources" version="1.0.1.38510" language="nl" processorArchitecture="amd64" />
+      <assemblyIdentity name="Kinovea.FileBrowser.resources" version="1.0.1.28587" language="nl" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>19Cuf3GLorY6/j44V9MF5BKKrkHbmqENMR1pGtTEuvY=</dsig:DigestValue>
+        <dsig:DigestValue>jbyHb3MlCwd4wKWRE1oAjBiTHpvwSchjlbmZdWgMhFk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="no\Kinovea.FileBrowser.resources.dll" size="4096">
-      <assemblyIdentity name="Kinovea.FileBrowser.resources" version="1.0.1.38510" language="no" processorArchitecture="amd64" />
+      <assemblyIdentity name="Kinovea.FileBrowser.resources" version="1.0.1.28587" language="no" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>dr2PSDsL1PnCUxJcoLN/RCcLU6vQg3xc6CyUUCrNvq0=</dsig:DigestValue>
+        <dsig:DigestValue>UvdG6lAraFIWkIUdtM01tFN27oDwmux4TRrWrtBPoTU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="pl\Kinovea.FileBrowser.resources.dll" size="3584">
-      <assemblyIdentity name="Kinovea.FileBrowser.resources" version="1.0.1.38510" language="pl" processorArchitecture="amd64" />
+      <assemblyIdentity name="Kinovea.FileBrowser.resources" version="1.0.1.28587" language="pl" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>GrTbxqfDDn/JeP3A0BWNnnM0NPx2ZrTNha23T2cOLLw=</dsig:DigestValue>
+        <dsig:DigestValue>bnISnur1piv6Es6Fu/Q4DvXe4zZzUGdyPLJigvLnXAk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="pt\Kinovea.FileBrowser.resources.dll" size="4096">
-      <assemblyIdentity name="Kinovea.FileBrowser.resources" version="1.0.1.38510" language="pt" processorArchitecture="amd64" />
+      <assemblyIdentity name="Kinovea.FileBrowser.resources" version="1.0.1.28587" language="pt" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Gjvu/btJRQhC9oo183XinyG5iCvMZ8jyKeYkza2ODcc=</dsig:DigestValue>
+        <dsig:DigestValue>SXcivNjQRWKCG6rikvygY5vHNIJzHLNeR0vCciWW8JU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ro\Kinovea.FileBrowser.resources.dll" size="4096">
-      <assemblyIdentity name="Kinovea.FileBrowser.resources" version="1.0.1.38510" language="ro" processorArchitecture="amd64" />
+      <assemblyIdentity name="Kinovea.FileBrowser.resources" version="1.0.1.28587" language="ro" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>+FWKdVmcJE6QabZQZtA5xUX0fjUNSumcirnHSisK4Ao=</dsig:DigestValue>
+        <dsig:DigestValue>WBdEIdeUg30DnwMrMzpMLfwzMp0A18jVQpBB0oYS8c0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ru\Kinovea.FileBrowser.resources.dll" size="4608">
-      <assemblyIdentity name="Kinovea.FileBrowser.resources" version="1.0.1.38510" language="ru" processorArchitecture="amd64" />
+      <assemblyIdentity name="Kinovea.FileBrowser.resources" version="1.0.1.28587" language="ru" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>NgIWpCuhwimmmPYAlCKoJ5BlY+X2Us5/6zGxx94CsnY=</dsig:DigestValue>
+        <dsig:DigestValue>vgUS3IgmpRHjOpgu/VlijkMXvphDeWyoOjuqDXv6YwY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="sr-Cyrl-RS\Kinovea.FileBrowser.resources.dll" size="4608">
-      <assemblyIdentity name="Kinovea.FileBrowser.resources" version="1.0.1.38510" language="sr-Cyrl-RS" processorArchitecture="amd64" />
+      <assemblyIdentity name="Kinovea.FileBrowser.resources" version="1.0.1.28587" language="sr-Cyrl-RS" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>XhQTx4IVLs+A86LQQD80X4+CftBvonfTtzpZ62Yz7a4=</dsig:DigestValue>
+        <dsig:DigestValue>rnvK65T7PuAOoQWshcJaQ2mPt7iEaT9UdeFdFuEqfyU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="sr-Latn-RS\Kinovea.FileBrowser.resources.dll" size="4096">
-      <assemblyIdentity name="Kinovea.FileBrowser.resources" version="1.0.1.38510" language="sr-Latn-RS" processorArchitecture="amd64" />
+      <assemblyIdentity name="Kinovea.FileBrowser.resources" version="1.0.1.28587" language="sr-Latn-RS" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>VS72tFhPbt5wdyBYv4hhUxu/lhhWpy7ngvocQi0dsOs=</dsig:DigestValue>
+        <dsig:DigestValue>KvL234PMX9zVAfOLATw4hecILFYOB85bznqoKeHd1+w=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="sv\Kinovea.FileBrowser.resources.dll" size="4096">
-      <assemblyIdentity name="Kinovea.FileBrowser.resources" version="1.0.1.38510" language="sv" processorArchitecture="amd64" />
+      <assemblyIdentity name="Kinovea.FileBrowser.resources" version="1.0.1.28587" language="sv" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>oBaUsB8ghEuH/abZU1Qh2fhX0JkHVmFbBP6eqr9Bx6A=</dsig:DigestValue>
+        <dsig:DigestValue>kYX0l8rMHKuF9gGosRJHSA+j1qfSSDl6ppR4Yjd/IYU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="tr\Kinovea.FileBrowser.resources.dll" size="4096">
-      <assemblyIdentity name="Kinovea.FileBrowser.resources" version="1.0.1.38510" language="tr" processorArchitecture="amd64" />
+      <assemblyIdentity name="Kinovea.FileBrowser.resources" version="1.0.1.28587" language="tr" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>NTJ/mO9pxxvb4hyiGwf0JfrxxtSrn7jHr/4rXmZRdsQ=</dsig:DigestValue>
+        <dsig:DigestValue>L/x7d0aSXa9br5t5+xj68+00EIKISfly3teXwprA5Uk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="zh-CHS\Kinovea.FileBrowser.resources.dll" size="4096">
-      <assemblyIdentity name="Kinovea.FileBrowser.resources" version="1.0.1.38510" language="zh-CHS" processorArchitecture="amd64" />
+      <assemblyIdentity name="Kinovea.FileBrowser.resources" version="1.0.1.28587" language="zh-CHS" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>0PymwpkkTfkw0oZc3vvVdWMRPtf34JSac9WWu6dnBfc=</dsig:DigestValue>
+        <dsig:DigestValue>bjWqxyFZmjh3L9zs2vyy84uG17ipieRZtbq6UI6HzyU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -902,7 +902,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Uai+5bdQkdfSFVmTuo2ZwxLbn2pcVWlh1U8QAUHhYbA=</dsig:DigestValue>
+        <dsig:DigestValue>NbJ+JZNmRzQ7/Pg0ghQNp5a0FaJb3ZSBQfgPPzeuOOQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -914,7 +914,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>c1o4zIRAbwyFQroB1/m8jE8eXPfprtomtAb1PDakrzg=</dsig:DigestValue>
+        <dsig:DigestValue>7MeE/6ZNhf9+gFqVLfqqQbwNfqC81SPw1yq9awaHLZs=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -926,7 +926,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>YF1rHgSuzLi/SvPqr1Rg1GHWkofapCkbgXbhqdLCgz8=</dsig:DigestValue>
+        <dsig:DigestValue>+2H5AoupRLVgrEDqn6tTAyYH3s9LdkHwqQjQ5C1oi0w=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -938,7 +938,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>3czX+CCoNAMi/tPxDWlwIVfuYv1qo0muGeGbUdFoUOM=</dsig:DigestValue>
+        <dsig:DigestValue>N2ph8NWVuzDfb1n6xZhTpZ0Hc8RtQ6+Aw8SJc1BNbWQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -950,7 +950,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>X5Ypz0jEBAUjcloyO9D/OMWpRqDgCXBovRiOP8A09w4=</dsig:DigestValue>
+        <dsig:DigestValue>K1k47FFss+yYbppnBG2qogl3xIcaTU7i32CjIMdQrRc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -962,7 +962,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>d51MHtNhWxT8kTEeVtNaMlcpI6AC2WE4xW5P4JVGx/A=</dsig:DigestValue>
+        <dsig:DigestValue>Mo03Uar6LTA2jW3xEZP3Yvl5UOAn8lATYiyA5J+VdUs=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -974,7 +974,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>kC+wEAqSo8QH32TPRVmYo5EFEjsuvODL+slFSfej9AQ=</dsig:DigestValue>
+        <dsig:DigestValue>mgt2iPSmeKcS61ogE2ElEmlO/movs2ljxJzQ3ccv/Nk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -986,7 +986,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>IcUspCRdMSeLsy6NzdLtwpcK0YPo3nF9LaYR63IdhWA=</dsig:DigestValue>
+        <dsig:DigestValue>wPt3Y7WEnZOMxwA8JoLfIScYeFXM+b2Eb5mx8oatkF8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -998,7 +998,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>gYYSVAA/a2fzmX9MGa/U6mtYu297gNn+5fJr4VEEX0E=</dsig:DigestValue>
+        <dsig:DigestValue>/wxGkl21DXKtFqvsFNSzdmrm+wZrNKy8cUKkiUjHtKA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1010,7 +1010,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>QmArzb1fxfd/m6ggPZmsM6+Bn7JfSjiau9OgWEOda3I=</dsig:DigestValue>
+        <dsig:DigestValue>1F554wwJ2lod6mM3rwm3QxHnHXOtbm2CtXtpNDm1QdU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1022,7 +1022,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>8c9DVs60CDZHlNbrw0q8Mgs4sC1MF42FLoER0NtmK5g=</dsig:DigestValue>
+        <dsig:DigestValue>GOH0deT4BJVlC3jtuevAzwd8C4pPqa8nHoTcnEzTnXA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1034,7 +1034,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>etGP0jNNwpaQPw06Loltz8jOqaVQOFXBcylRmkBLsLI=</dsig:DigestValue>
+        <dsig:DigestValue>7RzzHmiUo+DFY36sh8efH3Xli7WjSgFZgahaWApWL8w=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1046,7 +1046,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>6ZoNFqsD8WtzqdaWR2qBglfVdVimj0y0P/2vbFzri2o=</dsig:DigestValue>
+        <dsig:DigestValue>R9n4GEmLT+hjNL1mWCX30XzQSvhCGho3SNhlqwGxEX8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1058,7 +1058,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>+8A4VaQk8M8y7NBESBTnHWRK/DXfT0PN3Hyyg2CsZSQ=</dsig:DigestValue>
+        <dsig:DigestValue>lEXw1VMsZxQ76ySeI2NZF0r1UB6naWBqRPgaWPzetO4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1070,7 +1070,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>gdGafHVYeFFBezEdIvLThLzxwAyotIYIDbMLLOrYDiY=</dsig:DigestValue>
+        <dsig:DigestValue>FIfud73CYlvw0J4XNwBNJDxDPHm7joZhqdS98lPXApg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1082,7 +1082,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>PJNMx2oJWH4CGWCRXpAF/AKFomJBJVlo7Xj+vSWhvEQ=</dsig:DigestValue>
+        <dsig:DigestValue>CYiuxsu3dvWklJLHAA33837Dwaim0DInup2dWWuzoCw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1094,7 +1094,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>LTTNLqOwBhQRAZjpGMC7V8wLWot30+9C80cVF5Fbn/U=</dsig:DigestValue>
+        <dsig:DigestValue>8CLlbR05VtxKKyZMBxqixfFbZgIVE/Myj/T205DpNtc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1106,7 +1106,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>5h+lL8twl4l0P5CrmP/lnpfJZUOOIXJwnmbCMNizuEM=</dsig:DigestValue>
+        <dsig:DigestValue>Ne2l11D7cnP+W6HKYEuePj0N4wVBWT9D3bn8Xz1pEZ4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1118,7 +1118,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>wZlqSZz77lRnomk15c52Gp4p9LIYmZk1bxWz0vi5SzI=</dsig:DigestValue>
+        <dsig:DigestValue>E7O7GBKzlQ91JUQhGtIY7MkLE/P5G0hApV0wuQmgMVs=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1130,7 +1130,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>GyAYg4K/ZV8d+On0IsuXjymRslGakQPvPckhaCOgJmQ=</dsig:DigestValue>
+        <dsig:DigestValue>JvwgJyjiDG2ebtNSh9dS+lqx2dVKnk3cYLpfGRFK630=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1142,7 +1142,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>GDXjiwh6aLIuGszmBXK/bMivCvrsNgfvrzPtCKiAYuE=</dsig:DigestValue>
+        <dsig:DigestValue>pIiX4zRtUDH4wXwcDp0Kknm1Pts43wksfmZb7InNw4Q=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1154,7 +1154,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>wRnJArpjxDaM3Nk2bBG9FPgVS5AmX2q91IEEcQ8vQF4=</dsig:DigestValue>
+        <dsig:DigestValue>Osj+fKcz2GPPKnyo+SNXmehZi+pp7pWiuTHVrNUr9ww=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1166,7 +1166,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>zgq5+jN+4AFhk600m2IeWNONcMQdO+i9sKNNUra7T2w=</dsig:DigestValue>
+        <dsig:DigestValue>o2J7sRG4dk9ltoBONc9Us7wNR9PCg+ql3a9N4ovISmg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1178,7 +1178,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>+hLxGym/r12nO8XQyfkeID9AKSR5H4YyqR5lt+2wU2I=</dsig:DigestValue>
+        <dsig:DigestValue>bjUhtufGvw/vcVLD9VUji8Z9HWCGwuwSi3bubALtuDM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1190,7 +1190,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>qkGRRdZ0yTLj5JyJrit2SGbobOzviAskG7QP4MBLym0=</dsig:DigestValue>
+        <dsig:DigestValue>nKJ3UwpCjP9jq3eq74PFkiWE4JB/CrwodnKY9NmQoGA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1202,7 +1202,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>m5DfF1ikxtcZuo4RKo20N77sODogY4bBNmQaSRewCP8=</dsig:DigestValue>
+        <dsig:DigestValue>oz3LUJVj/q8reHUxCKocEJ6VD2b+9F5eT/aGkEZMSDQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1214,7 +1214,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>3q9t0lg7hdSSAmfJiADzL9AGhyhxuaktAy0AdeDyTsU=</dsig:DigestValue>
+        <dsig:DigestValue>yEauyclKizqNMb0rZwriUobLxAFW3qmXIAL7mwsMqBk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1226,7 +1226,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>p+ZlR3oOOzMmwFgF/D8VihYMEH6quIr77qk8iV/S+zU=</dsig:DigestValue>
+        <dsig:DigestValue>A+0MjUb4e/xtCaIjaM2pLDya91B5MYsVnHvbQywOR3Y=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1238,7 +1238,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>+XZvmPlbN3jfdHMUTQ+JoI+kXGZpT25edyXmmREEXnk=</dsig:DigestValue>
+        <dsig:DigestValue>qQBWVa09pFB9+MvcdfvRduRyUrDfIlqhwAu40WBzSNw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1250,7 +1250,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>lqm5sHlHkpip8ZoD6jP7dUeT5lvgpvZBzWlqc1Kfiz8=</dsig:DigestValue>
+        <dsig:DigestValue>yPtxReqtbm3na/5ufuEI1caRTrf+PtwCHAKYX/+WtoU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1262,7 +1262,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>mzPWN3XNwey6fSES8321Ns/Uu/wldbt2FOnBtrIfCKw=</dsig:DigestValue>
+        <dsig:DigestValue>Tu9kIkFUGSCGoeomjCUe2C9OdvL+LLrHFvXq2HxLZ8I=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1274,7 +1274,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>YDCgfXAE0ug12JHDA17nOk3hXAsa/Yyfo1VsBZJarhA=</dsig:DigestValue>
+        <dsig:DigestValue>T8817RzJOJwR5eNcvlp8ynZoRa1v/3Xe64Abb0O8B1Y=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1286,7 +1286,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>7r2JeOUVE4PHH9RRzn3DpwKbUy09fZCDixZMq3VwSio=</dsig:DigestValue>
+        <dsig:DigestValue>HdMJ1dVCUQ/HloKC8lsy4fsCxnY9uVSD45GCeqsM7k8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1298,7 +1298,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>82XAviA5GAwmoMzopBpdG9W2AVoUlKg3+tc5aFTDZ2Q=</dsig:DigestValue>
+        <dsig:DigestValue>MnYOStPBZPdQAKnyDBnzzGliE5axwYydh+i+BrVPPbw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1310,7 +1310,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>YchgKTH8w4Zch9EUm7uIFfJiy1AEXFRWt4KrWp3il2w=</dsig:DigestValue>
+        <dsig:DigestValue>glehugSrQjn8n2F02sSAC3yb6CQGAOAQFMHAGvaZnA0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1322,7 +1322,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>6Hl+ATsDGrFA5eE5KSvql6pc+PmRW6dJnFtBjBOSLxo=</dsig:DigestValue>
+        <dsig:DigestValue>CpFXgENTydfoSPnUPwKs3yp9yKs5Wg46tGNNViJ50Mo=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1334,7 +1334,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>EQ1eLLB2UJBoR2zo4qcOxQJBYDm5vbmbf/bvrg6Rwiw=</dsig:DigestValue>
+        <dsig:DigestValue>RboURmvktSjfey2ZW2LXt3lnpHPtBGZHMdrXSCWdrwQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1346,7 +1346,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Q40JZUwzCOe6ZoQjSd9DO1P/0LxVkTUcerKIgHabkX4=</dsig:DigestValue>
+        <dsig:DigestValue>0coAYlw3pDKhb5ChGdnuW9JkHlnUHDdkPl1pIiU8BGs=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1358,7 +1358,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>iGzGpO4T28GL/0hA1mLPtU9Ks3JSQ481FibBN1cLL5c=</dsig:DigestValue>
+        <dsig:DigestValue>5nWbh1eabkvIRAKJaaVOcCwSmIGCgLWxtkVxONz1/MM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1370,7 +1370,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>EmYvVpsr8LJYN9wzStw7v3gPO7bNYPkTCrj+8GsyMCM=</dsig:DigestValue>
+        <dsig:DigestValue>SYiNBU1H+n+w3hHw3VmMaYgGEMy5VacsvVBuGZNSZo8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1382,7 +1382,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>2U/9xNEfJO/mubGKuGzWh2lfUPg2apZ+f1vU2nS1Ac0=</dsig:DigestValue>
+        <dsig:DigestValue>C6BHo+C9Hs0ubvMV/70MqDvzuCG23rCMrHhU+CSiggY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1394,7 +1394,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>08jscr+5Xbub8ILNxC2KgTC6oz0n6Mih0mHbizouOU8=</dsig:DigestValue>
+        <dsig:DigestValue>lA7JnB+10wjHO5+1cM6Nf3/OZbnQ0to7D8qoldAzfNc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1406,7 +1406,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>UIT4F6qUlYBwNEAVAFrmxVAdHmH9eFGD7+Jn6vCH8uQ=</dsig:DigestValue>
+        <dsig:DigestValue>e+F1jJUfc6Xgb5VzxVrK4wkHaZz6qOclOdNdAI7/Thk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1418,7 +1418,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>npg2TQdsKjUK260DZx+VEQyHvXPfUazoQTDrU/dqcbg=</dsig:DigestValue>
+        <dsig:DigestValue>Zq7J89ifciGPheZxejBGJD7Z+sbLgIOoUCbDi8mFqKk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1430,7 +1430,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>BqzpYgk5QpCNXt8zrMHxoTDlRlK+/ya1pH3YcZz03WA=</dsig:DigestValue>
+        <dsig:DigestValue>UnpR1/jtaZd77JPoGPIw6cUPU4Q5vvvASdEl1hccW8A=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1442,7 +1442,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>ROB/k1xN+sa+ErgCAfQ0mOHng4M9EwzPjj8VdVm/fiw=</dsig:DigestValue>
+        <dsig:DigestValue>86GRtPDB4DFfmZaUvaYrpu/uw1T90U2ve47etIbwKjo=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1454,7 +1454,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>9bgW5x2Ddqew1koPf0QOfefGwi9mAphXsO+Rbfs4eZs=</dsig:DigestValue>
+        <dsig:DigestValue>v4Kn3+iZ6iyHUiTaXXm4gzb/n5dm4VZHtTqHgmloNuc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1466,7 +1466,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>CM87ZS4Al9s1niGKnZsTtnPw+mcjYSaIbdyzs4lGrJw=</dsig:DigestValue>
+        <dsig:DigestValue>1hk+7KDcv6HSeqeQz4YdcSTfoGjd6JdZSLnacy+ikGQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1478,7 +1478,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>sYrFzThcZN5JnLMF5R0gRwta8bqMHcuvev/GDiUaqUE=</dsig:DigestValue>
+        <dsig:DigestValue>58wJtt9DqhWTknSmT5svHLc0VcO8ZxTG4BMdujaolW4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1490,7 +1490,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>wNBUHnECfPgoW5K66L/GRqm320ZCqGiZ6O4LwhSP70A=</dsig:DigestValue>
+        <dsig:DigestValue>fdVKVj2QRjPuhux4PiXKbVb2hwxpPkaipIvWJKPMZI0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1502,7 +1502,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>6FNtGOZ9NB4CztMFIpzz5AoTh52y2RbwJiA6y4I0uCY=</dsig:DigestValue>
+        <dsig:DigestValue>55fhm6TnPtrfLz6tr5HDm3g6/0hSnJp/SB7yJhsWpWM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1514,7 +1514,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>if3oXk7b2naTEgbZGo0NKdruRFgtyD7+8R1LkxyWWcw=</dsig:DigestValue>
+        <dsig:DigestValue>k1XH6SYAI8/PVd6e7R4JdWXykswfPD47LlJ5EPsyhqY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1526,7 +1526,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>TS40weON3m3+FubP713VJkEmVvlciRY2/emw3HL2JtA=</dsig:DigestValue>
+        <dsig:DigestValue>jviK+VQZZho2lJmduo1j0LewiTJbSo+7h5oAqxtwx9M=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1538,7 +1538,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>QFYtln+kEsWEZ+RD0cJIMMgE8pNpms317h3eAQbGhcM=</dsig:DigestValue>
+        <dsig:DigestValue>RW3E5nb1nN7ZgH/9HpP4DBhoNfm/6LaEcIrG016VFYE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1550,343 +1550,343 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>5oyCCv35kp/J1KJZ0xyFFj0v8Dm774Nw1zh3VeJH6bY=</dsig:DigestValue>
+        <dsig:DigestValue>CHRSkd/sU5YLEsmfEh9GMpuJJ3q3mieTizfT3f6jULI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Kinovea.Services.dll" size="135168">
-      <assemblyIdentity name="Kinovea.Services" version="1.0.1.38504" language="neutral" processorArchitecture="amd64" />
+      <assemblyIdentity name="Kinovea.Services" version="1.0.1.28574" language="neutral" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>yZsAvInoGZ0U9+maNuHzlmHFYQihd7J884v+HuicQbI=</dsig:DigestValue>
+        <dsig:DigestValue>F2cx+6+SiAtNm0uhvn3B2oHHOgcnB0Eu7nnHfUA2+cI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Kinovea.Updater.dll" size="23552">
-      <assemblyIdentity name="Kinovea.Updater" version="1.0.1.38509" language="neutral" processorArchitecture="amd64" />
+      <assemblyIdentity name="Kinovea.Updater" version="1.0.1.28585" language="neutral" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>OKdtRj+KnNRgFjPynmFDpXDkNcZKRsvWnqW8qLE+G4A=</dsig:DigestValue>
+        <dsig:DigestValue>fQIMQE3tUGj5WDXWaJGMUNk0T2CcS3GB1yu0eJZqPpQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ar\Kinovea.Updater.resources.dll" size="3584">
-      <assemblyIdentity name="Kinovea.Updater.resources" version="1.0.1.38509" language="ar" processorArchitecture="amd64" />
+      <assemblyIdentity name="Kinovea.Updater.resources" version="1.0.1.28585" language="ar" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>AcuTb0+GS4b4lpOYiWjeWev1A/CGOpG5lXb3FsAVok8=</dsig:DigestValue>
+        <dsig:DigestValue>a5J8gKTz5OpmW6Dv1cfE5XEUuDbirW96MDpcSMmLtjg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ca\Kinovea.Updater.resources.dll" size="3584">
-      <assemblyIdentity name="Kinovea.Updater.resources" version="1.0.1.38509" language="ca" processorArchitecture="amd64" />
+      <assemblyIdentity name="Kinovea.Updater.resources" version="1.0.1.28585" language="ca" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>xBDOvqlaru8f2cRLrJ1OtMRCcj5M2BQ+R8TjRH56cnA=</dsig:DigestValue>
+        <dsig:DigestValue>+9fIXY0MA2v2o1sqv0WSQ2LSgTI75BPfXqan4qGcSmU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="cs\Kinovea.Updater.resources.dll" size="3584">
-      <assemblyIdentity name="Kinovea.Updater.resources" version="1.0.1.38509" language="cs" processorArchitecture="amd64" />
+      <assemblyIdentity name="Kinovea.Updater.resources" version="1.0.1.28585" language="cs" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>vtsFtgeAqchdUfaHewWRvdJZ14zSQ3rwVsQ3vSLx5aA=</dsig:DigestValue>
+        <dsig:DigestValue>VjOTYjfQyt1vozlle0Un3u7R3cwVfh2G73rG3+0SQ08=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="da\Kinovea.Updater.resources.dll" size="3584">
-      <assemblyIdentity name="Kinovea.Updater.resources" version="1.0.1.38509" language="da" processorArchitecture="amd64" />
+      <assemblyIdentity name="Kinovea.Updater.resources" version="1.0.1.28585" language="da" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>+9iykoyjoC7szTxbwdHNsgEh/Qm6CF2GrWzSPFaYh/k=</dsig:DigestValue>
+        <dsig:DigestValue>EXybhijV85un9eINX8+UFwIyzh5m2KA0n5N9QOEw3Fk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="de\Kinovea.Updater.resources.dll" size="3584">
-      <assemblyIdentity name="Kinovea.Updater.resources" version="1.0.1.38509" language="de" processorArchitecture="amd64" />
+      <assemblyIdentity name="Kinovea.Updater.resources" version="1.0.1.28585" language="de" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>jobLFa994EdqfRgS9kgpIVEBgiDPMskGkMwR5VbUzzA=</dsig:DigestValue>
+        <dsig:DigestValue>KEaLmpvWdmSY8R3xNYaoh2jKKfOMirqkDx8He6E44k0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="el\Kinovea.Updater.resources.dll" size="4096">
-      <assemblyIdentity name="Kinovea.Updater.resources" version="1.0.1.38509" language="el" processorArchitecture="amd64" />
+      <assemblyIdentity name="Kinovea.Updater.resources" version="1.0.1.28585" language="el" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>CfvfEB3f3nV2qbXvLrzDbfChW91a4k65OO++pcFW+uo=</dsig:DigestValue>
+        <dsig:DigestValue>4wQvQPGSJ8ZnB4Ods7ndV6ZYCJqEgd9xSnjBHl4Lf2Q=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="es\Kinovea.Updater.resources.dll" size="3584">
-      <assemblyIdentity name="Kinovea.Updater.resources" version="1.0.1.38509" language="es" processorArchitecture="amd64" />
+      <assemblyIdentity name="Kinovea.Updater.resources" version="1.0.1.28585" language="es" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>KCYJ9FdjxOn6h2gGHqsGgmNokGfXcq3Ka3q946sGvaw=</dsig:DigestValue>
+        <dsig:DigestValue>+Q2qUE8DMvlrieoTe5KpLt6E6bNDXJUUaGXlE0lcUW0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="fa\Kinovea.Updater.resources.dll" size="4096">
-      <assemblyIdentity name="Kinovea.Updater.resources" version="1.0.1.38509" language="fa" processorArchitecture="amd64" />
+      <assemblyIdentity name="Kinovea.Updater.resources" version="1.0.1.28585" language="fa" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>6GD+UuxB1f6FGoJnF7E2uL/dc7vlqlUaIwuFpkNE8S4=</dsig:DigestValue>
+        <dsig:DigestValue>WIC7RWwR3ptQvWlj9QkKJK+LSi0Uf3IMlSq8nt3/Dq0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="fi\Kinovea.Updater.resources.dll" size="3584">
-      <assemblyIdentity name="Kinovea.Updater.resources" version="1.0.1.38509" language="fi" processorArchitecture="amd64" />
+      <assemblyIdentity name="Kinovea.Updater.resources" version="1.0.1.28585" language="fi" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Ov4XXf8K62YE4QjNA7vSlCQ/O5pruU8dUR8B6helqVg=</dsig:DigestValue>
+        <dsig:DigestValue>mV3P8V+HF70DWxC5qyoHOa4ufi7V2VzHSMjoypMPDOg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="fr\Kinovea.Updater.resources.dll" size="3584">
-      <assemblyIdentity name="Kinovea.Updater.resources" version="1.0.1.38509" language="fr" processorArchitecture="amd64" />
+      <assemblyIdentity name="Kinovea.Updater.resources" version="1.0.1.28585" language="fr" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>OtukTV39dSUiXCaFddON0FEN0kK9R+e/imo6u0HNGDU=</dsig:DigestValue>
+        <dsig:DigestValue>7zxjEK7dohlZd9GL71PrIqNes9EzCsALeg443mVmK8Y=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="it\Kinovea.Updater.resources.dll" size="3584">
-      <assemblyIdentity name="Kinovea.Updater.resources" version="1.0.1.38509" language="it" processorArchitecture="amd64" />
+      <assemblyIdentity name="Kinovea.Updater.resources" version="1.0.1.28585" language="it" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>dnFYM4ts/VA+LhkeQvuXCBH0QWCUqxHbRX/EeWT1+zo=</dsig:DigestValue>
+        <dsig:DigestValue>1kb80SQ06jxYZfb6fnDL4tmVqoPQ3zra6vGi19JMVbg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ja\Kinovea.Updater.resources.dll" size="4096">
-      <assemblyIdentity name="Kinovea.Updater.resources" version="1.0.1.38509" language="ja" processorArchitecture="amd64" />
+      <assemblyIdentity name="Kinovea.Updater.resources" version="1.0.1.28585" language="ja" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>d2MbzsIVXefVs7cYKzVvlBZAK+N99ZMmWwM+oBK0PUw=</dsig:DigestValue>
+        <dsig:DigestValue>QZOS+TFkXtncxqIgERUnmqxU78lgcgARQjOC+tSVmyI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ko\Kinovea.Updater.resources.dll" size="3584">
-      <assemblyIdentity name="Kinovea.Updater.resources" version="1.0.1.38509" language="ko" processorArchitecture="amd64" />
+      <assemblyIdentity name="Kinovea.Updater.resources" version="1.0.1.28585" language="ko" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>oqztt28IKfnGwXbtvQMeIwbZvI5OUsin3+5lmH5Is8c=</dsig:DigestValue>
+        <dsig:DigestValue>tCfggPY5o9s1GaQI2RhmXJvtcGO5XsGFODGy5ZbLjHg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="lt\Kinovea.Updater.resources.dll" size="3584">
-      <assemblyIdentity name="Kinovea.Updater.resources" version="1.0.1.38509" language="lt" processorArchitecture="amd64" />
+      <assemblyIdentity name="Kinovea.Updater.resources" version="1.0.1.28585" language="lt" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>1g809pfAepwtpW6KN39kA4ZqV2hr/jykGZoJ61PAeXI=</dsig:DigestValue>
+        <dsig:DigestValue>k8/b2Ufbuxs6V1RYyBsbMYpENS+2BWvOUFcav8gYw70=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="mk\Kinovea.Updater.resources.dll" size="4096">
-      <assemblyIdentity name="Kinovea.Updater.resources" version="1.0.1.38509" language="mk" processorArchitecture="amd64" />
+      <assemblyIdentity name="Kinovea.Updater.resources" version="1.0.1.28585" language="mk" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>+E6K4a7ezPPOsFghRjN5W2y6OEsa/FQy23gqYbHwDqw=</dsig:DigestValue>
+        <dsig:DigestValue>DsViQs7Oo9I/J7Qz8AEK9hlVJSV31ZwqCxBUpvw7hsg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="nl\Kinovea.Updater.resources.dll" size="3584">
-      <assemblyIdentity name="Kinovea.Updater.resources" version="1.0.1.38509" language="nl" processorArchitecture="amd64" />
+      <assemblyIdentity name="Kinovea.Updater.resources" version="1.0.1.28585" language="nl" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>fOPbvDP0PYdFi8y90L0gceizXIeMYkd2U2/Df8S51n4=</dsig:DigestValue>
+        <dsig:DigestValue>atlkK8opB3NwYGN1KHfkQdTNhi9gPubLn1u0a9GO8uQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="no\Kinovea.Updater.resources.dll" size="3584">
-      <assemblyIdentity name="Kinovea.Updater.resources" version="1.0.1.38509" language="no" processorArchitecture="amd64" />
+      <assemblyIdentity name="Kinovea.Updater.resources" version="1.0.1.28585" language="no" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>WvklfRYfgAlEeP4rRBugillZEKCZ9BiVvGBtMCkJ41A=</dsig:DigestValue>
+        <dsig:DigestValue>3mwmPQRQEuljoDmJUKley+poIz2PlNO0+aQZ8Af2Az4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="pl\Kinovea.Updater.resources.dll" size="3584">
-      <assemblyIdentity name="Kinovea.Updater.resources" version="1.0.1.38509" language="pl" processorArchitecture="amd64" />
+      <assemblyIdentity name="Kinovea.Updater.resources" version="1.0.1.28585" language="pl" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>+sIfLFMWgYpGkFPMT3ASgtoDwaKVy8wwIKBnby+xt0g=</dsig:DigestValue>
+        <dsig:DigestValue>yQm5cxVRExwItR0rpCKi8G8DwQVAtyKVpAKPPrZKMY8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="pt\Kinovea.Updater.resources.dll" size="3584">
-      <assemblyIdentity name="Kinovea.Updater.resources" version="1.0.1.38509" language="pt" processorArchitecture="amd64" />
+      <assemblyIdentity name="Kinovea.Updater.resources" version="1.0.1.28585" language="pt" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>AbZrvyJbtPb2XonLZR90dKwvFbQc6BsFLFaDrqP84mo=</dsig:DigestValue>
+        <dsig:DigestValue>QwBn0QlytZ9owJN7uMIeZNT5O/6O3ht449TNSxK62RE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ro\Kinovea.Updater.resources.dll" size="3584">
-      <assemblyIdentity name="Kinovea.Updater.resources" version="1.0.1.38509" language="ro" processorArchitecture="amd64" />
+      <assemblyIdentity name="Kinovea.Updater.resources" version="1.0.1.28585" language="ro" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>yEHYFryw3chnNe5Ls++2pX5P5530uz49McYGQLbNH8E=</dsig:DigestValue>
+        <dsig:DigestValue>ADXlX0H44dABwnakTjAdYCPo2HDyRza+MDKqEbTBMKA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ru\Kinovea.Updater.resources.dll" size="4096">
-      <assemblyIdentity name="Kinovea.Updater.resources" version="1.0.1.38509" language="ru" processorArchitecture="amd64" />
+      <assemblyIdentity name="Kinovea.Updater.resources" version="1.0.1.28585" language="ru" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>DtkiL8UZX70KeL6d1rNFpYWjxX0k1jF/20oD0XQjaB4=</dsig:DigestValue>
+        <dsig:DigestValue>YwQ26TvTLQYij5aqhLYzUwWENoEE0Htjh1Q9C2Snfd4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="sr-Cyrl-RS\Kinovea.Updater.resources.dll" size="4096">
-      <assemblyIdentity name="Kinovea.Updater.resources" version="1.0.1.38509" language="sr-Cyrl-RS" processorArchitecture="amd64" />
+      <assemblyIdentity name="Kinovea.Updater.resources" version="1.0.1.28585" language="sr-Cyrl-RS" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>8yvSLYZlKRSkxiq6LGjvgJ7YbWuMT1Ib+YQ3QTccD9I=</dsig:DigestValue>
+        <dsig:DigestValue>BCqiJUMo37eylY0W+x0TEWGupTxCxyAsMGtNlzijO6I=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="sr-Latn-RS\Kinovea.Updater.resources.dll" size="3584">
-      <assemblyIdentity name="Kinovea.Updater.resources" version="1.0.1.38509" language="sr-Latn-RS" processorArchitecture="amd64" />
+      <assemblyIdentity name="Kinovea.Updater.resources" version="1.0.1.28585" language="sr-Latn-RS" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>dSQyJfABZ85WxonlzfdI9QsC9sSuzCDyFZmenul09gE=</dsig:DigestValue>
+        <dsig:DigestValue>j+93tNZMq4n9ayW9FBZLvE9OQtEDKVvdfukaJ6Yc1xw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="sv\Kinovea.Updater.resources.dll" size="3584">
-      <assemblyIdentity name="Kinovea.Updater.resources" version="1.0.1.38509" language="sv" processorArchitecture="amd64" />
+      <assemblyIdentity name="Kinovea.Updater.resources" version="1.0.1.28585" language="sv" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>/pXq772TrfUNm29i7M1rljQL/c7TbiytKi1lQmspN8g=</dsig:DigestValue>
+        <dsig:DigestValue>uwzb5rMQbVJiUb4jJpUyM4/H+rUiwBi6c7h/RfaXOo0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="tr\Kinovea.Updater.resources.dll" size="3584">
-      <assemblyIdentity name="Kinovea.Updater.resources" version="1.0.1.38509" language="tr" processorArchitecture="amd64" />
+      <assemblyIdentity name="Kinovea.Updater.resources" version="1.0.1.28585" language="tr" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Lpt3glfNl3WnfEFwG1ru0AToo2Fqx2D1sQWg9PuCeZs=</dsig:DigestValue>
+        <dsig:DigestValue>fwk8kWLu0p5gsRgsOC6wjfGjuikoZ6fa0FYI8/lz2GM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="zh-CHS\Kinovea.Updater.resources.dll" size="3584">
-      <assemblyIdentity name="Kinovea.Updater.resources" version="1.0.1.38509" language="Zh-CHS" processorArchitecture="amd64" />
+      <assemblyIdentity name="Kinovea.Updater.resources" version="1.0.1.28585" language="Zh-CHS" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>nR4av4iJKZwrq6gTLQvkt45ggcpnEbvrJMb5Fjsqjfk=</dsig:DigestValue>
+        <dsig:DigestValue>FwTFnjUywd6ix0klJqCxTF0jxJwQxqFAg2NTVzd8L9E=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1898,7 +1898,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>7gCh3zZZRK/nu8Vw42T3Ayyeg++RVgqmNrUzktANrus=</dsig:DigestValue>
+        <dsig:DigestValue>rkFRRr+XQfjdTonDKC1O5E+OCrePAMK6io6qR9AmZxw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1910,19 +1910,19 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>c23h02F4iZXX+5EhLreZpEsp5rbcDoBq1bxldgCWGGA=</dsig:DigestValue>
+        <dsig:DigestValue>VqnBAmDkiO2tbpU2vOR0MEyyR6cFkB7RA12Om9/+1GI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Kinovea.Video.FFMpeg.dll" size="123392">
-      <assemblyIdentity name="Kinovea.Video.FFMpeg" version="1.0.1.38519" language="neutral" processorArchitecture="amd64" />
+      <assemblyIdentity name="Kinovea.Video.FFMpeg" version="1.0.1.28598" language="neutral" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>afRAys369UrlQ3K7H/wyNqzFRg+SfXwLutnbReGbEUs=</dsig:DigestValue>
+        <dsig:DigestValue>DV2FzdQmO05ks12qPE5VjhvH7EpNYMqVjzDFeYP2l9U=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1934,7 +1934,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>XoZK3N4Mq8WUoaN0Kpa6jNaRtU6gb/FCixCtbAKxJck=</dsig:DigestValue>
+        <dsig:DigestValue>jiBf6otVLSFeU1bHU9SvFRFaTS28zJ9Y+Q2heJj9COE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1946,7 +1946,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>XC3KQySCTJeyeXDwDQsmZssp0MTkBvCRJfdg51i3Rjk=</dsig:DigestValue>
+        <dsig:DigestValue>/miinjOb1d9i/ag4nJdABgnxZ+z3NRWPVLbjeHOL5EY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1958,7 +1958,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>2r8G9rjCXIB/UldQC0xSXkMMtespR9uSf9F/fd1zRMM=</dsig:DigestValue>
+        <dsig:DigestValue>oD9mRfehqY61Y51zOp4vU9LDik/el/Qst27fzg4mLio=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

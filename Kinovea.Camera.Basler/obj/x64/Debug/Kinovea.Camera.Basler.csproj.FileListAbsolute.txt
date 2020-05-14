@@ -16,3 +16,12 @@ D:\Work\FreelancerProjects\Fiverr\Kin\Kinovea\Kinovea.Camera.Basler\obj\x64\Debu
 D:\Work\FreelancerProjects\Fiverr\Kin\Kinovea\Kinovea.Camera.Basler\obj\x64\Debug\Kinovea.Camera.Basler.csproj.CopyComplete
 D:\Work\FreelancerProjects\Fiverr\Kin\Kinovea\Kinovea.Camera.Basler\obj\x64\Debug\Kinovea.Camera.Basler.dll
 D:\Work\FreelancerProjects\Fiverr\Kin\Kinovea\Kinovea.Camera.Basler\obj\x64\Debug\Kinovea.Camera.Basler.pdb
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea\bin\x64\Debug\Kinovea.Camera.Basler.dll
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea\bin\x64\Debug\Kinovea.Camera.Basler.pdb
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea.Camera.Basler\obj\x64\Debug\Kinovea.Camera.Basler.csprojAssemblyReference.cache
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea.Camera.Basler\obj\x64\Debug\Kinovea.Camera.Basler.FormConfiguration.resources
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea.Camera.Basler\obj\x64\Debug\Kinovea.Camera.Basler.csproj.GenerateResource.cache
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea.Camera.Basler\obj\x64\Debug\Kinovea.Camera.Basler.csproj.CoreCompileInputs.cache
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea.Camera.Basler\obj\x64\Debug\Kinovea.Camera.Basler.csproj.CopyComplete
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea.Camera.Basler\obj\x64\Debug\Kinovea.Camera.Basler.dll
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea.Camera.Basler\obj\x64\Debug\Kinovea.Camera.Basler.pdb

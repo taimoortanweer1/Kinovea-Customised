@@ -16,3 +16,12 @@ D:\Work\FreelancerProjects\Fiverr\Kin\Kinovea\Kinovea.Camera.DirectShow\obj\x64\
 D:\Work\FreelancerProjects\Fiverr\Kin\Kinovea\Kinovea.Camera.DirectShow\obj\x64\Debug\Kinovea.Camera.DirectShow.csproj.CopyComplete
 D:\Work\FreelancerProjects\Fiverr\Kin\Kinovea\Kinovea.Camera.DirectShow\obj\x64\Debug\Kinovea.Camera.DirectShow.dll
 D:\Work\FreelancerProjects\Fiverr\Kin\Kinovea\Kinovea.Camera.DirectShow\obj\x64\Debug\Kinovea.Camera.DirectShow.pdb
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea\bin\x64\Debug\Kinovea.Camera.DirectShow.dll
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea\bin\x64\Debug\Kinovea.Camera.DirectShow.pdb
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea.Camera.DirectShow\obj\x64\Debug\Kinovea.Camera.DirectShow.csprojAssemblyReference.cache
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea.Camera.DirectShow\obj\x64\Debug\Kinovea.Camera.DirectShow.FormConfiguration.resources
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea.Camera.DirectShow\obj\x64\Debug\Kinovea.Camera.DirectShow.csproj.GenerateResource.cache
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea.Camera.DirectShow\obj\x64\Debug\Kinovea.Camera.DirectShow.csproj.CoreCompileInputs.cache
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea.Camera.DirectShow\obj\x64\Debug\Kinovea.Camera.DirectShow.csproj.CopyComplete
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea.Camera.DirectShow\obj\x64\Debug\Kinovea.Camera.DirectShow.dll
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea.Camera.DirectShow\obj\x64\Debug\Kinovea.Camera.DirectShow.pdb

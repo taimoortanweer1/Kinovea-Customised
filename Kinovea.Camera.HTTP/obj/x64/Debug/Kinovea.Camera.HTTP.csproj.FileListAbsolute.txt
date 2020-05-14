@@ -18,3 +18,13 @@ D:\Work\FreelancerProjects\Fiverr\Kin\Kinovea\Kinovea.Camera.HTTP\obj\x64\Debug\
 D:\Work\FreelancerProjects\Fiverr\Kin\Kinovea\Kinovea.Camera.HTTP\obj\x64\Debug\Kinovea.Camera.HTTP.csproj.CopyComplete
 D:\Work\FreelancerProjects\Fiverr\Kin\Kinovea\Kinovea.Camera.HTTP\obj\x64\Debug\Kinovea.Camera.HTTP.dll
 D:\Work\FreelancerProjects\Fiverr\Kin\Kinovea\Kinovea.Camera.HTTP\obj\x64\Debug\Kinovea.Camera.HTTP.pdb
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea\bin\x64\Debug\Kinovea.Camera.HTTP.dll
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea\bin\x64\Debug\Kinovea.Camera.HTTP.pdb
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea.Camera.HTTP\obj\x64\Debug\Kinovea.Camera.HTTP.csprojAssemblyReference.cache
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea.Camera.HTTP\obj\x64\Debug\Kinovea.Camera.HTTP.ConnectionWizard.resources
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea.Camera.HTTP\obj\x64\Debug\Kinovea.Camera.HTTP.FormConfiguration.resources
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea.Camera.HTTP\obj\x64\Debug\Kinovea.Camera.HTTP.csproj.GenerateResource.cache
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea.Camera.HTTP\obj\x64\Debug\Kinovea.Camera.HTTP.csproj.CoreCompileInputs.cache
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea.Camera.HTTP\obj\x64\Debug\Kinovea.Camera.HTTP.csproj.CopyComplete
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea.Camera.HTTP\obj\x64\Debug\Kinovea.Camera.HTTP.dll
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea.Camera.HTTP\obj\x64\Debug\Kinovea.Camera.HTTP.pdb

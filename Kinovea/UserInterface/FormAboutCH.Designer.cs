@@ -98,7 +98,8 @@
             this.Controls.Add(this.label1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "FormAboutCH";
-            this.Text = "About Clean Hands™";
+            this.Text = "About | Clean Hands™";
+            this.TopMost = true;
             this.ResumeLayout(false);
             this.PerformLayout();
 

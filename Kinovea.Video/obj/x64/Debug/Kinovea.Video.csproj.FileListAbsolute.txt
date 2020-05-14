@@ -18,3 +18,13 @@ D:\Work\FreelancerProjects\Fiverr\Kin\Kinovea\Kinovea.Video\obj\x64\Debug\Kinove
 D:\Work\FreelancerProjects\Fiverr\Kin\Kinovea\Kinovea.Video\obj\x64\Debug\Kinovea.Video.csproj.CopyComplete
 D:\Work\FreelancerProjects\Fiverr\Kin\Kinovea\Kinovea.Video\obj\x64\Debug\Kinovea.Video.dll
 D:\Work\FreelancerProjects\Fiverr\Kin\Kinovea\Kinovea.Video\obj\x64\Debug\Kinovea.Video.pdb
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea.Video\bin\x64\Debug\Kinovea.Video.dll
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea.Video\bin\x64\Debug\Kinovea.Video.pdb
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea.Video\bin\x64\Debug\log4net.dll
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea.Video\bin\x64\Debug\TurboJpegNet.dll
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea.Video\bin\x64\Debug\log4net.xml
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea.Video\obj\x64\Debug\Kinovea.Video.csprojAssemblyReference.cache
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea.Video\obj\x64\Debug\Kinovea.Video.csproj.CoreCompileInputs.cache
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea.Video\obj\x64\Debug\Kinovea.Video.csproj.CopyComplete
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea.Video\obj\x64\Debug\Kinovea.Video.dll
+D:\Work\FreelancerProjects\Fiverr\test\Kinovea-Customised\Kinovea.Video\obj\x64\Debug\Kinovea.Video.pdb
