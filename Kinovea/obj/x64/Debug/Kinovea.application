@@ -7,14 +7,14 @@
     <framework targetVersion="4.8" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Kinovea.exe.manifest" size="121889">
+    <dependentAssembly dependencyType="install" codebase="Kinovea.exe.manifest" size="121830">
       <assemblyIdentity name="Kinovea.exe" version="0.7.0.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="amd64" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>sN0QTbfstIcXGf6UQrwlEdLnAYnBx2y+mslFA9/FeFs=</dsig:DigestValue>
+        <dsig:DigestValue>15dT5VMeWDN8WC2NI9mq6Tgi4KZZEKcqrkgWbuneRuA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

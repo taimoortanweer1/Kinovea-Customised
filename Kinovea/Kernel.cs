@@ -368,7 +368,7 @@ namespace Kinovea.Root
             mnuHelpCM.Image = Properties.Resources.book_open;
             mnuHelpCM.Click += (s, e) =>
             {
-                FormHelpCM formHelp = new FormHelpCM();
+                FormInstructions formHelp = new FormInstructions();
                 formHelp.ShowDialog();
             };
 

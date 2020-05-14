@@ -36,11 +36,16 @@
             // 
             // richTextBox1
             // 
+            this.richTextBox1.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.richTextBox1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.richTextBox1.Enabled = false;
             this.richTextBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
-            this.richTextBox1.Location = new System.Drawing.Point(1, 41);
+            this.richTextBox1.ImeMode = System.Windows.Forms.ImeMode.NoControl;
+            this.richTextBox1.Location = new System.Drawing.Point(12, 41);
             this.richTextBox1.Name = "richTextBox1";
-            this.richTextBox1.Size = new System.Drawing.Size(506, 378);
+            this.richTextBox1.ReadOnly = true;
+            this.richTextBox1.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.richTextBox1.Size = new System.Drawing.Size(485, 378);
             this.richTextBox1.TabIndex = 0;
             this.richTextBox1.Text = resources.GetString("richTextBox1.Text");
             // 
