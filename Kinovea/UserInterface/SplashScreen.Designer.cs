@@ -39,7 +39,7 @@ namespace Kinovea.Root
             this.lblInfo.BackColor = System.Drawing.Color.Black;
             this.lblInfo.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblInfo.ForeColor = System.Drawing.Color.White;
-            this.lblInfo.Location = new System.Drawing.Point(12, 319);
+            this.lblInfo.Location = new System.Drawing.Point(12, 276);
             this.lblInfo.Name = "lblInfo";
             this.lblInfo.Size = new System.Drawing.Size(48, 13);
             this.lblInfo.TabIndex = 0;
@@ -55,7 +55,7 @@ namespace Kinovea.Root
             this.pictureBox1.Image = global::Kinovea.Root.Properties.Resources.splash1;
             this.pictureBox1.Location = new System.Drawing.Point(0, 0);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(450, 341);
+            this.pictureBox1.Size = new System.Drawing.Size(450, 300);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 2;
             this.pictureBox1.TabStop = false;
@@ -65,7 +65,7 @@ namespace Kinovea.Root
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(450, 341);
+            this.ClientSize = new System.Drawing.Size(450, 300);
             this.ControlBox = false;
             this.Controls.Add(this.lblInfo);
             this.Controls.Add(this.pictureBox1);

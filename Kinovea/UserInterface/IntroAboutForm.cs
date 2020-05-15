@@ -20,7 +20,7 @@ namespace Kinovea.Root
             InitializeComponent();
 
             btnAgreement.FlatStyle = FlatStyle.Flat;
-            btnAgreement.FlatAppearance.BorderSize = 2;
+            btnAgreement.FlatAppearance.BorderSize = 1;
 
         }
 
@@ -33,7 +33,7 @@ namespace Kinovea.Root
         private void btnAbout_Click(object sender, EventArgs e)
         {
             FormAboutCH about = new FormAboutCH();
-            about.ShowDialog();
+            about.Show();
         }
 
         private void IntroAboutForm_FormClosed(object sender, FormClosedEventArgs e)

@@ -117,4 +117,36 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="richTextBox4.Text" xml:space="preserve">
+    <value>You can add description in these boxes and add images in the two boxes below.
+1. Right click on the properties and look for text.
+2. Add as accordin to you need
+
+3. Similarly below down are two image boxes.
+4. You can add images in them from properties</value>
+  </data>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>You can add description in these boxes and add images in the two boxes below.
+1. Right click on the properties and look for text.
+2. Add as accordin to you need
+
+3. Similarly below down are two image boxes.
+4. You can add images in them from properties</value>
+  </data>
+  <data name="richTextBox2.Text" xml:space="preserve">
+    <value>You can add description in these boxes and add images in the two boxes below.
+1. Right click on the properties and look for text.
+2. Add as accordin to you need
+
+3. Similarly below down are two image boxes.
+4. You can add images in them from properties</value>
+  </data>
+  <data name="richTextBox3.Text" xml:space="preserve">
+    <value>You can add description in these boxes and add images in the two boxes below.
+1. Right click on the properties and look for text.
+2. Add as accordin to you need
+
+3. Similarly below down are two image boxes.
+4. You can add images in them from properties</value>
+  </data>
 </root>

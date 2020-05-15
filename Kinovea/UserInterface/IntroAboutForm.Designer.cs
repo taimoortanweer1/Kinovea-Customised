@@ -31,9 +31,9 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(IntroAboutForm));
             this.btnAbout = new System.Windows.Forms.Button();
             this.richTextBox1 = new System.Windows.Forms.RichTextBox();
-            this.label1 = new System.Windows.Forms.Label();
             this.btnInstructions = new System.Windows.Forms.Button();
             this.btnAgreement = new System.Windows.Forms.Button();
+            this.label1 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // btnAbout
@@ -41,10 +41,10 @@
             this.btnAbout.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
             this.btnAbout.AutoSize = true;
             this.btnAbout.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnAbout.Location = new System.Drawing.Point(307, 44);
+            this.btnAbout.Location = new System.Drawing.Point(313, 3);
             this.btnAbout.Name = "btnAbout";
-            this.btnAbout.Size = new System.Drawing.Size(235, 32);
-            this.btnAbout.TabIndex = 0;
+            this.btnAbout.Size = new System.Drawing.Size(308, 32);
+            this.btnAbout.TabIndex = 1;
             this.btnAbout.Text = "About the Clean Hands™ Program";
             this.btnAbout.UseVisualStyleBackColor = true;
             this.btnAbout.Click += new System.EventHandler(this.btnAbout_Click);
@@ -53,31 +53,21 @@
             // 
             this.richTextBox1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
             this.richTextBox1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.richTextBox1.Location = new System.Drawing.Point(12, 119);
+            this.richTextBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F);
+            this.richTextBox1.Location = new System.Drawing.Point(12, 41);
             this.richTextBox1.Name = "richTextBox1";
-            this.richTextBox1.Size = new System.Drawing.Size(824, 371);
+            this.richTextBox1.Size = new System.Drawing.Size(897, 450);
             this.richTextBox1.TabIndex = 1;
             this.richTextBox1.Text = resources.GetString("richTextBox1.Text");
-            // 
-            // label1
-            // 
-            this.label1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(343, 91);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(163, 20);
-            this.label1.TabIndex = 2;
-            this.label1.Text = "Important Information";
             // 
             // btnInstructions
             // 
             this.btnInstructions.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.btnInstructions.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnInstructions.Location = new System.Drawing.Point(12, 496);
+            this.btnInstructions.Location = new System.Drawing.Point(12, 497);
             this.btnInstructions.Name = "btnInstructions";
-            this.btnInstructions.Size = new System.Drawing.Size(277, 53);
+            this.btnInstructions.Size = new System.Drawing.Size(283, 53);
             this.btnInstructions.TabIndex = 3;
             this.btnInstructions.Text = "Clean Hands™ Operations Instructions";
             this.btnInstructions.UseVisualStyleBackColor = true;
@@ -88,19 +78,31 @@
             this.btnAgreement.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.btnAgreement.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnAgreement.Location = new System.Drawing.Point(295, 496);
+            this.btnAgreement.Location = new System.Drawing.Point(301, 497);
             this.btnAgreement.Name = "btnAgreement";
-            this.btnAgreement.Size = new System.Drawing.Size(541, 53);
+            this.btnAgreement.Size = new System.Drawing.Size(608, 53);
             this.btnAgreement.TabIndex = 4;
             this.btnAgreement.Text = resources.GetString("btnAgreement.Text");
             this.btnAgreement.UseVisualStyleBackColor = true;
             this.btnAgreement.Click += new System.EventHandler(this.btnAgreement_Click);
             // 
+            // label1
+            // 
+            this.label1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
+            this.label1.AutoSize = true;
+            this.label1.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F);
+            this.label1.Location = new System.Drawing.Point(377, 63);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(184, 24);
+            this.label1.TabIndex = 2;
+            this.label1.Text = "Important Information";
+            // 
             // IntroAboutForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(848, 561);
+            this.ClientSize = new System.Drawing.Size(921, 562);
             this.Controls.Add(this.btnAgreement);
             this.Controls.Add(this.btnInstructions);
             this.Controls.Add(this.label1);
@@ -123,8 +125,8 @@
 
         private System.Windows.Forms.Button btnAbout;
         private System.Windows.Forms.RichTextBox richTextBox1;
-        private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button btnInstructions;
         public System.Windows.Forms.Button btnAgreement;
+        private System.Windows.Forms.Label label1;
     }
 }
