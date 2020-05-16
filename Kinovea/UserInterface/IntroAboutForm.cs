@@ -33,7 +33,7 @@ namespace Kinovea.Root
         private void btnAbout_Click(object sender, EventArgs e)
         {
             FormAboutCH about = new FormAboutCH();
-            about.Show();
+            about.ShowDialog();
         }
 
         private void IntroAboutForm_FormClosed(object sender, FormClosedEventArgs e)

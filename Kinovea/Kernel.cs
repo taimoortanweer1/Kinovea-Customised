@@ -459,8 +459,8 @@ namespace Kinovea.Root
             mnuWebsite.Text = "www.kinovea.org";
             mnuAbout.Text = RootLang.mnuAbout;
             mnuHelp.Text = RootLang.mnuHelp;
-            mnuAboutCM.Text = "About Clean Hands™ ...";
-            mnuHelpCM.Text = "Help Clean Hands™ ...";
+            mnuAboutCM.Text = "About Clean Hands™...";
+            mnuHelpCM.Text = "Clean Hands™ Help";
 
 
 

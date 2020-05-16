@@ -601,6 +601,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="kinoveabundle.ico" />
+    <None Include="Resources\Clean Hands TM - 450 x 300.png" />
     <None Include="Resources\framenumber.png" />
     <None Include="Resources\timecode.png" />
     <None Include="Resources\microseconds.png" />

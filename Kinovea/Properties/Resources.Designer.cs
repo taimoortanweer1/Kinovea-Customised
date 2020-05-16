@@ -133,6 +133,26 @@ namespace Kinovea.Root.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Clean_Hands_TM___450_x_300 {
+            get {
+                object obj = ResourceManager.GetObject("Clean Hands TM - 450 x 300", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Clean_Hands_TM___450_x_3001 {
+            get {
+                object obj = ResourceManager.GetObject("Clean Hands TM - 450 x 3001", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap closegrey {
             get {
                 object obj = ResourceManager.GetObject("closegrey", resourceCulture);

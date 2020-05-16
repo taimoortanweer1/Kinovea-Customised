@@ -117,17 +117,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="richTextBox1.Text" xml:space="preserve">
-    <value>
-
-
-The analysis features of this program are broadly provided through the open-source program named Kinovea.  The WaggleWeight® Company sincerely thanks and is indebted to all those involved in creating and making Kinovea available for use in conjunction with specifically defined Clean Hands™ protocols, which help achieve unequaled analysis and improvement regarding performing and equipment fitting.  For specific instructions in the use of analysis features contained within Kinovea, please visit Help at the top of the program or visit the website Kinovea.org.
-Within the capabilities of Kinovea, The Clean Hands™ Program has its own strict and unique requirements regarding the creation and use of specimens used within the analysis process.  Depending upon the specific activity (using golf here as an example), these requirements are foundationally far different from the past, resulting in input specimens and data, display presentations, analysis results, and more that are also far different from the past.  The scopes of these elements are so fundamentally different that analysis methodologies of the past are really neither comparable nor compatible in nature.
-
-And in order to be conformant with and attain the benefits offered by the Clean Hands™ methodology and its peerless accuracy, consistency, and validity, it is critically important to correctly comprehend the specific protocols toward implementing processes properly.  With that in mind, please navigate next to the dedicated Clean Hands™ program operating instructions.  And after studied as necessary and comprehended, please indicate that the instructions have been read, understood, and will be complied with when implementing the program.  Failing to do so will result in inaccurate and invalid results merely comparable to past analysis methodologies.
-
-Please note that instructions might further evolve and be updated at any time without express notice given and could potentially change substantially even over a very short period of time.  As necessary, the dedicated Clean Hands™ operating instructions can be referenced as necessary or desired by visiting Help at the top of the program.</value>
-  </data>
   <data name="btnAgreement.Text" xml:space="preserve">
     <value>I confirm that I have read and understand the Clean Hands™ operating instructions and agree to comply with them in operating the program, acknowledging that failing to do so will result in flawed and invalid analysis results</value>
   </data>

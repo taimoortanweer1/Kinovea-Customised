@@ -28,36 +28,19 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormReminder));
-            this.richTextBox1 = new System.Windows.Forms.RichTextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
             this.SuspendLayout();
-            // 
-            // richTextBox1
-            // 
-            this.richTextBox1.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.richTextBox1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.richTextBox1.Enabled = false;
-            this.richTextBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.richTextBox1.ImeMode = System.Windows.Forms.ImeMode.NoControl;
-            this.richTextBox1.Location = new System.Drawing.Point(12, 41);
-            this.richTextBox1.Name = "richTextBox1";
-            this.richTextBox1.ReadOnly = true;
-            this.richTextBox1.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.richTextBox1.Size = new System.Drawing.Size(485, 378);
-            this.richTextBox1.TabIndex = 0;
-            this.richTextBox1.Text = resources.GetString("richTextBox1.Text");
             // 
             // label1
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F);
-            this.label1.Location = new System.Drawing.Point(172, 9);
+            this.label1.Location = new System.Drawing.Point(89, 9);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(188, 24);
+            this.label1.Size = new System.Drawing.Size(336, 24);
             this.label1.TabIndex = 1;
-            this.label1.Text = "Please Be Reminded";
+            this.label1.Text = "Please Be Reminded - Clean Hands™ ";
             // 
             // button1
             // 
@@ -78,7 +61,6 @@
             this.ControlBox = false;
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.richTextBox1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Name = "FormReminder";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
@@ -88,8 +70,6 @@
         }
 
         #endregion
-
-        private System.Windows.Forms.RichTextBox richTextBox1;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button button1;
     }

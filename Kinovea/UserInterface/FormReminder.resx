@@ -117,11 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="richTextBox1.Text" xml:space="preserve">
-    <value>If an analysis is regarding performance, please be sure that any subject specimen entered into the program, and if used any reference specimen against which any subject specimen will be compared, is created in a base configuration.
-
-If an analysis is regarding equipment fitting, please be sure that any subject specimen entered into the program is created using the equipment/golf club attempting to be fit, and that any reference specimen (of the same subject) entered into the program and against which any subject specimen will be compared, is created in a base configuration.
-
-Nonconformance will produce flawed analysis results, thus any determinations regarding how to proceed based on analysis results will be misleading, erroneous, and invalid.  If unsure of any of these terms and/or protocols as defined within the dedicated Clean Hands™ operating instructions, please visit the Help menu above.</value>
-  </data>
 </root>
