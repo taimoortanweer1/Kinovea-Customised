@@ -368,8 +368,8 @@ namespace Kinovea.Root
             mnuHelpCM.Image = Properties.Resources.book_open;
             mnuHelpCM.Click += (s, e) =>
             {
-                FormInstructions formHelp = new FormInstructions();
-                formHelp.ShowDialog();
+                FormInstructions formInsCM = new FormInstructions();
+                formInsCM.Show();
             };
 
             mnuHelp.DropDownItems.AddRange(new ToolStripItem[] {
